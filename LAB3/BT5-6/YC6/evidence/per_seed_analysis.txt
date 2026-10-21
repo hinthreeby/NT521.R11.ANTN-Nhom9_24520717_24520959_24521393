@@ -1,0 +1,42 @@
+Lab 3 Requirement 6 - reconstructed AI seed and direct coverage analysis
+Workspace: /home/kali/xpdf-lab
+
+Generator status
+----------------
+gen_seeds.py is a reconstructed generator, not the original script used for the earlier experiment. The original generator was unavailable. It computes object offsets, stream /Length values, xref entries, startxref, trailer /Size, and incremental /Prev values programmatically. It refuses to overwrite an existing output file.
+
+Reconstruction check
+--------------------
+Copies were generated in /tmp/xpdf-reconstructed-seeds. PDF object bodies were compared against the existing seeds_ai files:
+  filtered_metadata.pdf: objects_equal=True
+  incremental_update.pdf: objects_equal=True
+  nested_pages.pdf: objects_equal=True
+  rich_catalog.pdf: objects_equal=True
+The original seeds_ai/*.pdf files were not overwritten.
+
+Validation and direct per-seed coverage
+--------------------------------------
+Coverage was measured by running install_cov/bin/pdfinfo once per original seed with a separate LLVM_PROFILE_FILE, then comparing executed source-line regions with cov_reports/base/export.json. These are direct seed measurements; they do not include lines reached later by honggfuzz mutations.
+
+Filename                 Intended Xpdf region                         Validation  New lines vs baseline  Explanation
+-----------------------  -------------------------------------------  ----------  ----------------------  -----------
+filtered_metadata.pdf   Stream::makeFilter / ASCIIHexDecode          valid       10                     Directly reaches filter construction and ASCIIHexStream setup: Stream.cc lines 136, 146-147, 273, 293, 297, 815-817, 820.
+incremental_update.pdf  XRef::readXRef / trailer /Prev              valid        2                     Directly reaches integer /Prev processing and continuation: XRef.cc lines 433 and 441.
+nested_pages.pdf        PageAttrs crop-box handling                  valid        1                     Directly reaches CropBox presence branch: Page.cc line 91.
+rich_catalog.pdf        Catalog optional URI/metadata handling        valid        2                     Directly reaches catalog Base URI handling: Catalog.cc lines 102 and 104.
+
+Measured direct additions
+-------------------------
+filtered_metadata.pdf: 10
+incremental_update.pdf: 2
+nested_pages.pdf: 1
+rich_catalog.pdf: 2
+
+The four direct measurements demonstrate that all four seeds add at least one baseline-relative executed source-line region. This does not mean every later AI-corpus coverage increase came from one seed alone: the later honggfuzz campaign mutated the whole corpus, and its aggregate coverage includes mutation-derived inputs.
+
+The earlier corpus-level measurements were:
+  baseline out_base: 1641/6187 = 26.52%
+  AI out_ai:         1709/6187 = 27.62%
+  aggregate change:  +68 lines, +1.10 percentage points
+
+The +68-line aggregate change must not be substituted for any individual seed's direct result above.

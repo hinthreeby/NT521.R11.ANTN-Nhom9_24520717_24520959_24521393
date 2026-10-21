@@ -7975,4 +7975,1626 @@ Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.
 [2026-10-20T23:32:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56015 exited with status: SIGNALED, signal: 7 (Bus error)
 Persistent mode: Launched new persistent pid=56016
 Sz:2269 Tm:526us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/871/70/55363
-[2026-10-20T23:32:08-0400][W][50684] arch_checkWait():237 Persistent m
+[2026-10-20T23:32:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56016 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56017
+[2026-10-20T23:32:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56017 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56018
+[2026-10-20T23:32:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56018 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56019
+[2026-10-20T23:32:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56019 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56020
+[2026-10-20T23:32:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56020 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56021
+[2026-10-20T23:32:09-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56021 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56022
+[2026-10-20T23:32:09-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56022 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56031
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:09-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56031 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56032
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:09-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56032 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56033
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:09-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56033 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56034
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:09-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56034 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56035
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:09-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56035 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56036
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:09-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56036 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56037
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:09-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56037 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56038
+[2026-10-20T23:32:10-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56038 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56047
+[2026-10-20T23:32:10-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56047 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56048
+[2026-10-20T23:32:10-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56048 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56049
+[2026-10-20T23:32:11-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56049 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56050
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:11-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56050 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56059
+[2026-10-20T23:32:11-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56059 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56060
+[2026-10-20T23:32:11-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56060 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56061
+Sz:1837 Tm:2,780us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55364
+[2026-10-20T23:32:12-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56061 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56062
+[2026-10-20T23:32:12-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56062 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56063
+[2026-10-20T23:32:12-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56063 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56064
+[2026-10-20T23:32:12-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56064 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56065
+[2026-10-20T23:32:12-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56065 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56066
+[2026-10-20T23:32:12-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56066 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56067
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.1abb326c83.CODE.2.ADDR.7fffe4ace6b8.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:32:12-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56067 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56076
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac9c85.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:32:12-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56076 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56077
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:13-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56077 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56078
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:13-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56078 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56079
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:13-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56079 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56080
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:13-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56080 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56081
+[2026-10-20T23:32:13-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56081 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56088
+[2026-10-20T23:32:14-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56088 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56091
+[2026-10-20T23:32:14-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56091 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56092
+[2026-10-20T23:32:14-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56092 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56093
+[2026-10-20T23:32:14-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56093 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56094
+[2026-10-20T23:32:14-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56094 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56103
+[2026-10-20T23:32:15-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56103 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56104
+[2026-10-20T23:32:15-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56104 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56113
+[2026-10-20T23:32:15-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56113 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56114
+Sz:1512 Tm:240us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55365
+[2026-10-20T23:32:15-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56114 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56115
+[2026-10-20T23:32:16-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56115 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56116
+[2026-10-20T23:32:16-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56116 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56117
+[2026-10-20T23:32:16-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56117 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56118
+[2026-10-20T23:32:16-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56118 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56119
+[2026-10-20T23:32:16-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56119 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56120
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56120 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56137
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56137 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56138
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56138 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56139
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56139 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56140
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56140 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56141
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56141 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56142
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac9c3a.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:32:18-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56142 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56143
+[2026-10-20T23:32:18-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56143 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56144
+[2026-10-20T23:32:18-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56144 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56153
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:18-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56153 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56154
+[2026-10-20T23:32:18-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56154 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56155
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac9c81.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:18-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56155 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56156
+[2026-10-20T23:32:18-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56156 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56157
+[2026-10-20T23:32:18-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56157 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56158
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56158 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56159
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56159 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56160
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56160 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56161
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56161 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56162
+Sz:3510 Tm:938us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/871/70/55394
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56162 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56171
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56171 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56172
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56172 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56173
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56173 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56174
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56174 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56175
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56175 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56176
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56176 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56177
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56177 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56178
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56178 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56179
+[2026-10-20T23:32:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56179 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56180
+Crash (dup): 'evidence/baseline_run/work/SIGSEGV.PC.5555556b1994.STACK.d4a048cdf.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:20-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56180 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Persistent mode: Launched new persistent pid=56190
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:21-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56190 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56191
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:21-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56191 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56192
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:21-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56192 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56193
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:21-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56193 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56194
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac9c7f.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:21-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56194 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56195
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:21-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56195 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56196
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:21-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56196 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56197
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:21-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56197 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56198
+[2026-10-20T23:32:22-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56198 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56215
+[2026-10-20T23:32:22-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56215 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56216
+Sz:1510 Tm:476us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55395
+[2026-10-20T23:32:23-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56216 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56225
+[2026-10-20T23:32:23-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56225 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56226
+[2026-10-20T23:32:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56226 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56227
+[2026-10-20T23:32:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56227 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56228
+[2026-10-20T23:32:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56228 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56229
+[2026-10-20T23:32:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56229 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56230
+Sz:1573 Tm:1,135us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55396
+[2026-10-20T23:32:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56230 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56239
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:25-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56239 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56240
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:25-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56240 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56241
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:25-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56241 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56242
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8413.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:25-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56242 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56251
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:25-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56251 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56252
+[2026-10-20T23:32:25-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56252 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56253
+[2026-10-20T23:32:25-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56253 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56254
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:25-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56254 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56255
+[2026-10-20T23:32:27-0400][W][50684] subproc_checkTimeLimit():532 pid=56255 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:32:27-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56255 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=56265
+[2026-10-20T23:32:28-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56265 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56273
+[2026-10-20T23:32:28-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56273 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56274
+[2026-10-20T23:32:29-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56274 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56283
+[2026-10-20T23:32:29-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56283 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56292
+Crash (dup): 'evidence/baseline_run/work/SIGSEGV.PC.5555556b1994.STACK.d4a048cdf.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:29-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56292 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Persistent mode: Launched new persistent pid=56293
+[2026-10-20T23:32:29-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56293 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56294
+[2026-10-20T23:32:29-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56294 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56295
+[2026-10-20T23:32:29-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56295 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56296
+[2026-10-20T23:32:29-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56296 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56297
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56297 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56308
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56308 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56315
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56315 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56316
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56316 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56317
+[2026-10-20T23:32:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56317 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56318
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56318 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56319
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56319 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56320
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56320 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56321
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56321 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56322
+[2026-10-20T23:32:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56322 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56323
+[2026-10-20T23:32:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56323 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56324
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56324 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56325
+[2026-10-20T23:32:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56325 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56326
+Crash (dup): 'evidence/baseline_run/work/SIGSEGV.PC.5555556b1994.STACK.1abb326c83.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56326 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Persistent mode: Launched new persistent pid=56327
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ae1db9.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:32:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56327 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56328
+[2026-10-20T23:32:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56328 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56329
+[2026-10-20T23:32:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56329 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56330
+[2026-10-20T23:32:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56330 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56339
+[2026-10-20T23:32:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56339 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56340
+[2026-10-20T23:32:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56340 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56341
+Sz:2361 Tm:948us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/871/70/55398
+[2026-10-20T23:32:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56341 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56342
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56342 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56343
+[2026-10-20T23:32:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56343 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56344
+[2026-10-20T23:32:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56344 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56345
+[2026-10-20T23:32:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56345 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56354
+[2026-10-20T23:32:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56354 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56355
+[2026-10-20T23:32:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56355 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56356
+[2026-10-20T23:32:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56356 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56357
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4bd8abf.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:32:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56357 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56358
+Sz:1794 Tm:704us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/871/70/55427
+Crash (dup): 'evidence/baseline_run/work/SIGSEGV.PC.5555556b1994.STACK.d4a048cdf.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56358 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Persistent mode: Launched new persistent pid=56359
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56359 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56360
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56360 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56361
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56361 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56367
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56367 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56371
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56371 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56372
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56372 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56373
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56373 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56374
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56374 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56375
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56375 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56376
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56376 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56377
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56377 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56378
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56378 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56379
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56379 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56380
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56380 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56381
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56381 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56382
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56382 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56383
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56383 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56384
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56384 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56385
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56385 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56386
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56386 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56387
+[2026-10-20T23:32:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56387 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56388
+[2026-10-20T23:32:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56388 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56389
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56389 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56398
+[2026-10-20T23:32:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56398 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56399
+[2026-10-20T23:32:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56399 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56400
+[2026-10-20T23:32:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56400 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56401
+[2026-10-20T23:32:36-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56401 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56410
+[2026-10-20T23:32:36-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56410 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56411
+[2026-10-20T23:32:36-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56411 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56412
+[2026-10-20T23:32:36-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56412 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56413
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:36-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56413 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56414
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56414 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56415
+Sz:1524 Tm:408us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/871/70/55459
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56415 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56416
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56416 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56417
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56417 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56426
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56426 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56427
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56427 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56428
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56428 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56429
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56429 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56430
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56430 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56431
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56431 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56432
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56432 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56433
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56433 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56434
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56434 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56435
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56435 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56436
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56436 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56437
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56437 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56438
+[2026-10-20T23:32:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56438 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56439
+[2026-10-20T23:32:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56439 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56440
+[2026-10-20T23:32:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56440 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56441
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56441 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56442
+[2026-10-20T23:32:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56442 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56443
+Sz:1530 Tm:420us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55460
+[2026-10-20T23:32:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56443 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56452
+[2026-10-20T23:32:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56452 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56453
+[2026-10-20T23:32:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56453 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56454
+[2026-10-20T23:32:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56454 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56455
+[2026-10-20T23:32:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56455 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56456
+[2026-10-20T23:32:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56456 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56457
+[2026-10-20T23:32:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56457 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56458
+[2026-10-20T23:32:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56458 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56459
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:39-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56459 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56460
+[2026-10-20T23:32:39-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56460 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56461
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:39-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56461 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56462
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:39-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56462 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56463
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:39-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56463 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56464
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:39-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56464 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56465
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:39-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56465 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56466
+Crash (dup): 'evidence/baseline_run/work/SIGSEGV.PC.5555556b1994.STACK.d4a048cdf.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:39-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56466 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Persistent mode: Launched new persistent pid=56467
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:39-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56467 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56468
+[2026-10-20T23:32:39-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56468 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56477
+[2026-10-20T23:32:39-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56477 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56478
+[2026-10-20T23:32:40-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56478 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56479
+Sz:1510 Tm:380us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55461
+[2026-10-20T23:32:40-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56479 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56480
+[2026-10-20T23:32:40-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56480 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56481
+[2026-10-20T23:32:40-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56481 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56482
+[2026-10-20T23:32:40-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56482 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56483
+[2026-10-20T23:32:40-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56483 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56484
+[2026-10-20T23:32:40-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56484 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56485
+[2026-10-20T23:32:40-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56485 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56494
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56494 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56495
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ae29d5.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56495 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56496
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56496 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56497
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56497 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56498
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56498 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56499
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56499 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56500
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56500 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56501
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56501 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56502
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56502 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56503
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56503 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56504
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56504 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56505
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56505 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56506
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56506 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56507
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56507 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56516
+Sz:7037 Tm:6,800us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/871/70/55491
+Sz:1521 Tm:398us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/871/70/55494
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:42-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56516 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56517
+[2026-10-20T23:32:42-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56517 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56518
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:42-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56518 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56519
+[2026-10-20T23:32:42-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56519 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56520
+[2026-10-20T23:32:42-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56520 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56529
+[2026-10-20T23:32:42-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56529 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56530
+[2026-10-20T23:32:42-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56530 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56531
+[2026-10-20T23:32:42-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56531 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56532
+[2026-10-20T23:32:42-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56532 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56533
+[2026-10-20T23:32:42-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56533 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56534
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56534 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56535
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56535 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56536
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56536 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56537
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56537 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56538
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56538 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56539
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56539 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56540
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56540 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56541
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56541 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56542
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56542 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56543
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56543 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56544
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56544 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56553
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56553 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56554
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56554 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56555
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56555 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56556
+[2026-10-20T23:32:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56556 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56557
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56557 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56558
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56558 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56559
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56559 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56560
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56560 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56561
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56561 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56562
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56562 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56563
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56563 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56572
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56572 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56573
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56573 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56574
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56574 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56575
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56575 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56576
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56576 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56577
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56577 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56578
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:44-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56578 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56579
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:45-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56579 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56580
+[2026-10-20T23:32:45-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56580 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56581
+[2026-10-20T23:32:45-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56581 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56582
+[2026-10-20T23:32:45-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56582 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56591
+[2026-10-20T23:32:45-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56591 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56592
+[2026-10-20T23:32:45-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56592 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56593
+[2026-10-20T23:32:45-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56593 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56594
+[2026-10-20T23:32:45-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56594 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56595
+[2026-10-20T23:32:45-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56595 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56596
+Sz:1590 Tm:364us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55495
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56596 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56597
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56597 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56598
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56598 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56599
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56599 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56600
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56600 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56601
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56601 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56602
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56602 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56603
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56603 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56604
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56604 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56605
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56605 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56606
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56606 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56607
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56607 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56616
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56616 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56617
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56617 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56618
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56618 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56619
+[2026-10-20T23:32:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56619 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56620
+Sz:1518 Tm:225us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55496
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56620 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56621
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56621 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56623
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56623 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56624
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56624 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56625
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56625 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56626
+Sz:1534 Tm:197us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/871/70/55528
+Sz:1883 Tm:394us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/871/70/55558
+Sz:1524 Tm:196us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/871/70/55588
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56626 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56635
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56635 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56636
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56636 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56637
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56637 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56638
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56638 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56639
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56639 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56640
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56640 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56641
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56641 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56643
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56643 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56644
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ade6c3.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56644 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56645
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56645 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56646
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56646 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56647
+[2026-10-20T23:32:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56647 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56648
+[2026-10-20T23:32:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56648 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56649
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ae2223.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:32:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56649 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56650
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56650 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56651
+[2026-10-20T23:32:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56651 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56652
+[2026-10-20T23:32:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56652 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56653
+Sz:1554 Tm:569us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55589
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56653 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56662
+[2026-10-20T23:32:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56662 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56663
+[2026-10-20T23:32:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56663 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56664
+[2026-10-20T23:32:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56664 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56665
+[2026-10-20T23:32:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56665 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56666
+[2026-10-20T23:32:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56666 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56667
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56667 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56668
+Sz:1562 Tm:389us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55590
+[2026-10-20T23:32:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56668 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56669
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:49-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56669 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56670
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:49-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56670 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56671
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:49-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56671 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56672
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:49-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56672 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56673
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:49-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56673 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56674
+[2026-10-20T23:32:49-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56674 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56675
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:49-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56675 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56676
+[2026-10-20T23:32:50-0400][W][50684] subproc_checkTimeLimit():532 pid=56676 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:32:50-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56676 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=56685
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:50-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56685 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56686
+[2026-10-20T23:32:50-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56686 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56695
+[2026-10-20T23:32:50-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56695 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56696
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:50-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56696 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56697
+[2026-10-20T23:32:50-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56697 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56698
+[2026-10-20T23:32:50-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56698 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56699
+[2026-10-20T23:32:50-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56699 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56700
+[2026-10-20T23:32:50-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56700 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56701
+[2026-10-20T23:32:51-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56701 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56702
+[2026-10-20T23:32:51-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56702 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=56708
+[2026-10-20T23:32:51-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56708 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56712
+[2026-10-20T23:32:51-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56712 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56713
+[2026-10-20T23:32:53-0400][W][50684] subproc_checkTimeLimit():532 pid=56713 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:32:53-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56713 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=56724
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56724 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56731
+Crash (dup): 'evidence/baseline_run/work/SIGSEGV.PC.5555556b1994.STACK.d4a048cdf.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56731 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Persistent mode: Launched new persistent pid=56732
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56732 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56733
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56733 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56734
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56734 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56735
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56735 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56736
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56736 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56737
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56737 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56738
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56738 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56739
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56739 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56740
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56740 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56749
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56749 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56750
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56750 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56751
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56751 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56752
+[2026-10-20T23:32:55-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56752 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56753
+[2026-10-20T23:32:55-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56753 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56754
+[2026-10-20T23:32:55-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56754 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56755
+[2026-10-20T23:32:55-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56755 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56756
+[2026-10-20T23:32:55-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56756 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56757
+[2026-10-20T23:32:55-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56757 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56758
+Sz:1510 Tm:336us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/871/70/55618
+Crash (dup): 'evidence/baseline_run/work/SIGSEGV.PC.5555556b1994.STACK.d4a048cdf.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:55-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56758 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Persistent mode: Launched new persistent pid=56767
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56767 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56768
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56768 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56769
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56769 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56770
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56770 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56771
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56771 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56772
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56772 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56773
+[2026-10-20T23:32:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56773 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56774
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56774 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56775
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56775 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56776
+[2026-10-20T23:32:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56776 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56777
+[2026-10-20T23:32:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56777 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56778
+Sz:6225 Tm:1,729us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/871/70/55620
+[2026-10-20T23:32:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56778 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56779
+[2026-10-20T23:32:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56779 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56788
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56788 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56789
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56789 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56790
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56790 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56791
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4bdd138.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56791 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56792
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56792 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56793
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56793 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56794
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56794 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56795
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56795 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56796
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56796 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56797
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.1abb9f4786.CODE.2.ADDR.7fffe4bbb511.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56797 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56798
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56798 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56807
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56807 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56808
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56808 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56809
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56809 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56810
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56810 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56811
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56811 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56812
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56812 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56813
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56813 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56814
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56814 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56815
+[2026-10-20T23:32:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56815 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56816
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac9af8.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:32:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56816 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56817
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56817 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56818
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56818 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56819
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56819 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56820
+[2026-10-20T23:32:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56820 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56821
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:32:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56821 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56822
+[2026-10-20T23:32:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56822 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56823
+[2026-10-20T23:32:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56823 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56832
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ae2cfa.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:32:59-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56832 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56833
+[2026-10-20T23:32:59-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56833 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56834
+[2026-10-20T23:32:59-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56834 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56835
+[2026-10-20T23:32:59-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56835 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56836
+[2026-10-20T23:32:59-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56836 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56837
+[2026-10-20T23:33:03-0400][W][50684] subproc_checkTimeLimit():532 pid=56837 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:33:14-0400][W][50684] subproc_checkTimeLimit():523 pid=56837 has already been signaled due to timeout. Killing it with SIGKILL
+[2026-10-20T23:33:14-0400][W][50684] subproc_checkTimeLimit():523 pid=56837 has already been signaled due to timeout. Killing it with SIGKILL
+[2026-10-20T23:33:14-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56837 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=56846
+[2026-10-20T23:33:15-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56846 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56857
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:16-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56857 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56874
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56874 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56875
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56875 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56876
+[2026-10-20T23:33:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56876 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56877
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56877 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56878
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56878 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56881
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56881 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56885
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56885 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56889
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56889 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56890
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56890 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56891
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:18-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56891 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56900
+[2026-10-20T23:33:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56900 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56901
+[2026-10-20T23:33:19-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56901 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56902
+[2026-10-20T23:33:20-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56902 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56921
+[2026-10-20T23:33:22-0400][W][50684] subproc_checkTimeLimit():532 pid=56921 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:33:22-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56921 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=56930
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:22-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56930 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56939
+[2026-10-20T23:33:22-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56939 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56940
+[2026-10-20T23:33:23-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56940 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56941
+[2026-10-20T23:33:23-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56941 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56942
+[2026-10-20T23:33:23-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56942 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=56943
+Sz:1510 Tm:452us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/871/70/55651
+Sz:1601 Tm:1,164us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55652
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:23-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56943 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56978
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56978 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56992
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56992 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=56998
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=56998 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57000
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57000 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57012
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57012 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57013
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57013 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57023
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57023 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57024
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57024 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57025
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57025 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57026
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57026 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57027
+Sz:1519 Tm:477us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/871/70/55684
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57027 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57047
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57047 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57048
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57048 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57049
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57049 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57050
+[2026-10-20T23:33:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57050 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57051
+Sz:1532 Tm:1,057us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/871/70/55686
+[2026-10-20T23:33:25-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57051 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57059
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4bdd409.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:25-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57059 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57065
+[2026-10-20T23:33:25-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57065 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57074
+[2026-10-20T23:33:25-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57074 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57075
+[2026-10-20T23:33:26-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57075 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57076
+[2026-10-20T23:33:26-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57076 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57077
+[2026-10-20T23:33:26-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57077 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57080
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4bdc267.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:33:26-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57080 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57081
+[2026-10-20T23:33:26-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57081 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57090
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:27-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57090 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57091
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:27-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57091 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57092
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:27-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57092 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57093
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:27-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57093 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57094
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:27-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57094 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57103
+[2026-10-20T23:33:28-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57103 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57104
+[2026-10-20T23:33:28-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57104 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57105
+Sz:1517 Tm:1,271us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/871/70/55717
+Crash (dup): 'evidence/baseline_run/work/SIGSEGV.PC.5555556b1994.STACK.d4a048cdf.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:28-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57105 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Persistent mode: Launched new persistent pid=57114
+[2026-10-20T23:33:29-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57114 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57133
+[2026-10-20T23:33:29-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57133 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57145
+[2026-10-20T23:33:30-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57145 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57150
+[2026-10-20T23:33:30-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57150 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57159
+[2026-10-20T23:33:30-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57159 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57160
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ae2d10.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:33:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57160 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57161
+[2026-10-20T23:33:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57161 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57162
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57162 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57171
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57171 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57172
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57172 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57173
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57173 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57174
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57174 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57175
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57175 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57176
+[2026-10-20T23:33:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57176 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57177
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57177 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57178
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac9b89.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:33:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57178 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57188
+[2026-10-20T23:33:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57188 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57189
+[2026-10-20T23:33:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57189 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57190
+[2026-10-20T23:33:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57190 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57191
+[2026-10-20T23:33:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57191 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57197
+Crash (dup): 'evidence/baseline_run/work/SIGSEGV.PC.5555556b1994.STACK.d4a048cdf.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57197 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Persistent mode: Launched new persistent pid=57201
+[2026-10-20T23:33:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57201 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57206
+[2026-10-20T23:33:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57206 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57220
+[2026-10-20T23:33:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57220 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57221
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57221 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57222
+[2026-10-20T23:33:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57222 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57234
+[2026-10-20T23:33:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57234 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57235
+[2026-10-20T23:33:35-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57235 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57236
+[2026-10-20T23:33:36-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57236 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57237
+[2026-10-20T23:33:36-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57237 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57238
+[2026-10-20T23:33:36-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57238 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57247
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57247 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57248
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57248 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57249
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57249 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57250
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57250 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57251
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57251 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57257
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57257 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57261
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57261 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57262
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57262 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57263
+[2026-10-20T23:33:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57263 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57264
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57264 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57266
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57266 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57267
+[2026-10-20T23:33:39-0400][W][50684] subproc_checkTimeLimit():532 pid=57267 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:33:39-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57267 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57290
+[2026-10-20T23:33:43-0400][W][50684] subproc_checkTimeLimit():532 pid=57290 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:33:47-0400][W][50684] subproc_checkTimeLimit():523 pid=57290 has already been signaled due to timeout. Killing it with SIGKILL
+[2026-10-20T23:33:47-0400][W][50684] subproc_checkTimeLimit():523 pid=57290 has already been signaled due to timeout. Killing it with SIGKILL
+[2026-10-20T23:33:47-0400][W][50684] subproc_checkTimeLimit():523 pid=57290 has already been signaled due to timeout. Killing it with SIGKILL
+[2026-10-20T23:33:47-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57290 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57301
+[2026-10-20T23:33:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57301 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57318
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:49-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57318 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57333
+[2026-10-20T23:33:49-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57333 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57334
+[2026-10-20T23:33:49-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57334 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57335
+[2026-10-20T23:33:50-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57335 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57345
+Crash (dup): 'evidence/baseline_run/work/SIGSEGV.PC.5555556b1994.STACK.d4a048cdf.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:50-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57345 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Persistent mode: Launched new persistent pid=57346
+[2026-10-20T23:33:51-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57346 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57357
+[2026-10-20T23:33:51-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57357 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57361
+[2026-10-20T23:33:51-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57361 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57363
+[2026-10-20T23:33:51-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57363 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57368
+[2026-10-20T23:33:52-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57368 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57381
+[2026-10-20T23:33:52-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57381 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57387
+Sz:3207 Tm:4,797us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55718
+Crash: saved as 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.e9a9a7010.CODE.2.ADDR.7fffe52683cc.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:33:53-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57387 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57400
+[2026-10-20T23:33:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57400 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57409
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57409 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57426
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:54-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57426 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57427
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:55-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57427 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57433
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:55-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57433 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57437
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:55-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57437 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57438
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:55-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57438 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57439
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:33:55-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57439 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57441
+[2026-10-20T23:33:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57441 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57447
+[2026-10-20T23:33:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57447 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57476
+[2026-10-20T23:33:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57476 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57485
+[2026-10-20T23:33:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57485 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57487
+[2026-10-20T23:33:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57487 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57505
+[2026-10-20T23:34:00-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57505 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57526
+[2026-10-20T23:34:01-0400][W][50684] subproc_checkTimeLimit():532 pid=57526 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:01-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57526 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57537
+[2026-10-20T23:34:02-0400][W][50684] subproc_checkTimeLimit():532 pid=57537 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:02-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57537 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57543
+[2026-10-20T23:34:03-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57543 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57556
+[2026-10-20T23:34:04-0400][W][50684] subproc_checkTimeLimit():532 pid=57556 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:05-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57556 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57565
+[2026-10-20T23:34:05-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57565 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57574
+[2026-10-20T23:34:05-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57574 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57575
+[2026-10-20T23:34:06-0400][W][50684] subproc_checkTimeLimit():532 pid=57575 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:06-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57575 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57584
+[2026-10-20T23:34:07-0400][W][50684] subproc_checkTimeLimit():532 pid=57584 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:07-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57584 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57591
+[2026-10-20T23:34:09-0400][W][50684] subproc_checkTimeLimit():532 pid=57591 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:09-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57591 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57609
+[2026-10-20T23:34:11-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57609 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57633
+Crash (dup): 'evidence/baseline_run/work/SIGSEGV.PC.5555556b1994.STACK.d4a048cdf.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:34:11-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57633 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Persistent mode: Launched new persistent pid=57637
+Sz:1643 Tm:753us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/871/70/55720
+[2026-10-20T23:34:12-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57637 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57647
+[2026-10-20T23:34:13-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57647 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57656
+[2026-10-20T23:34:14-0400][W][50684] subproc_checkTimeLimit():532 pid=57656 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:14-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57656 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57665
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:34:16-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57665 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57682
+[2026-10-20T23:34:17-0400][W][50684] subproc_checkTimeLimit():532 pid=57682 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:17-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57682 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57691
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:34:18-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57691 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57700
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:34:18-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57700 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57702
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:34:20-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57702 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57718
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:34:20-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57718 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57721
+[2026-10-20T23:34:21-0400][W][50684] subproc_checkTimeLimit():532 pid=57721 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:21-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57721 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57737
+[2026-10-20T23:34:23-0400][W][50684] subproc_checkTimeLimit():532 pid=57737 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:23-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57737 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57746
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:34:24-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57746 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57752
+[2026-10-20T23:34:25-0400][W][50684] subproc_checkTimeLimit():532 pid=57752 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:25-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57752 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57761
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:34:28-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57761 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57791
+[2026-10-20T23:34:29-0400][W][50684] subproc_checkTimeLimit():532 pid=57791 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:29-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57791 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57800
+[2026-10-20T23:34:30-0400][W][50684] subproc_checkTimeLimit():532 pid=57800 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:30-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57800 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57809
+[2026-10-20T23:34:31-0400][W][50684] subproc_checkTimeLimit():532 pid=57809 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57809 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57811
+[2026-10-20T23:34:32-0400][W][50684] subproc_checkTimeLimit():532 pid=57811 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57811 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57814
+[2026-10-20T23:34:34-0400][W][50684] subproc_checkTimeLimit():532 pid=57814 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:34-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57814 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57817
+[2026-10-20T23:34:35-0400][W][50684] subproc_checkTimeLimit():532 pid=57817 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:36-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57817 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57823
+[2026-10-20T23:34:37-0400][W][50684] subproc_checkTimeLimit():532 pid=57823 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:37-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57823 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57830
+[2026-10-20T23:34:38-0400][W][50684] subproc_checkTimeLimit():532 pid=57830 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:38-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57830 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57839
+[2026-10-20T23:34:39-0400][W][50684] subproc_checkTimeLimit():532 pid=57839 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:39-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57839 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57848
+[2026-10-20T23:34:40-0400][W][50684] subproc_checkTimeLimit():532 pid=57848 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:41-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57848 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57855
+[2026-10-20T23:34:42-0400][W][50684] subproc_checkTimeLimit():532 pid=57855 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:42-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57855 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57859
+[2026-10-20T23:34:43-0400][W][50684] subproc_checkTimeLimit():532 pid=57859 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:43-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57859 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57865
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:34:45-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57865 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57883
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:34:46-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57883 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57890
+[2026-10-20T23:34:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57890 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57905
+Sz:1607 Tm:616us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55721
+[2026-10-20T23:34:48-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57905 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57913
+[2026-10-20T23:34:50-0400][W][50684] subproc_checkTimeLimit():532 pid=57913 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:50-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57913 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57928
+[2026-10-20T23:34:51-0400][W][50684] subproc_checkTimeLimit():532 pid=57928 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:51-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57928 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57932
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:34:52-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57932 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=57941
+[2026-10-20T23:34:52-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57941 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57950
+[2026-10-20T23:34:53-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57950 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57951
+[2026-10-20T23:34:53-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57951 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57960
+[2026-10-20T23:34:56-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57960 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=57978
+[2026-10-20T23:34:57-0400][W][50684] subproc_checkTimeLimit():532 pid=57978 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:57-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57978 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=57987
+[2026-10-20T23:34:58-0400][W][50684] arch_checkWait():237 Persistent mode: pid=57987 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=58006
+[2026-10-20T23:34:59-0400][W][50684] subproc_checkTimeLimit():532 pid=58006 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:34:59-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58006 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=58015
+[2026-10-20T23:35:00-0400][W][50684] subproc_checkTimeLimit():532 pid=58015 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:35:00-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58015 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=58021
+[2026-10-20T23:35:02-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58021 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=58039
+[2026-10-20T23:35:02-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58039 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=58048
+[2026-10-20T23:35:03-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58048 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=58049
+[2026-10-20T23:35:04-0400][W][50684] subproc_checkTimeLimit():532 pid=58049 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:35:04-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58049 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=58058
+[2026-10-20T23:35:04-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58058 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=58067
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac9c85.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:06-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58067 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58076
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac9710.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:06-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58076 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58085
+Sz:1555 Tm:1,533us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55722
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:07-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58085 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58086
+Sz:1524 Tm:859us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/871/70/55723
+[2026-10-20T23:35:07-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58086 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=58096
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:07-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58096 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58097
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58097 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58098
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58098 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58099
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58099 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58100
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58100 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58101
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58101 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58102
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58102 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58103
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58103 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58104
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58104 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58110
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58110 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58115
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:08-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58115 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58116
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:09-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58116 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58117
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:09-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58117 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58118
+[2026-10-20T23:35:10-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58118 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=58128
+[2026-10-20T23:35:10-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58128 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=58129
+Crash (dup): 'evidence/baseline_run/work/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:35:10-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58129 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=58130
+[2026-10-20T23:35:10-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58130 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=58131
+[2026-10-20T23:35:10-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58131 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=58132
+[2026-10-20T23:35:13-0400][W][50684] subproc_checkTimeLimit():532 pid=58132 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:35:28-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58132 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=58144
+[2026-10-20T23:35:29-0400][W][50684] subproc_checkTimeLimit():532 pid=58144 took too much time (limit 1 s). Killing it with SIGKILL
+[2026-10-20T23:35:29-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58144 exited with status: SIGNALED, signal: 9 (Killed)
+Persistent mode: Launched new persistent pid=58148
+[2026-10-20T23:35:31-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58148 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=58170
+[2026-10-20T23:35:32-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58170 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=58180
+[2026-10-20T23:35:33-0400][W][50684] arch_checkWait():237 Persistent mode: pid=58180 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=58187
+Maximum run time reached, terminating
+Terminating thread no. #0, left: 0
+Summary iterations:541037 time:601 speed:900 crashes_count:1639 timeout_count:69 new_units_added:1969 slowest_unit_ms:23973 guard_nb:21046 branch_coverage_percent:4 peak_rss_mb:753
+[r[500B
