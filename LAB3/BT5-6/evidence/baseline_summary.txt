@@ -1,0 +1,16 @@
+Corpus: out_base  (1977 files, 3 crashes/timeouts)
+File            Covered    Lines        %
+Array.cc             31       37   83.78%
+Catalog.cc          168      296   56.76%
+Decrypt.cc            0      554    0.00%
+Dict.cc              46       55   83.64%
+Lexer.cc            365      388   94.07%
+Object.cc            81      152   53.29%
+PDFDoc.cc           135      229   58.95%
+Page.cc             149      335   44.48%
+Parser.cc           138      157   87.90%
+Stream.cc           125     3286    3.80%
+XRef.cc             403      698   57.74%
+------------------------------------------
+TOTAL              1641     6187   26.52%
+Whole program: 8.58% (2776/32337 lines)

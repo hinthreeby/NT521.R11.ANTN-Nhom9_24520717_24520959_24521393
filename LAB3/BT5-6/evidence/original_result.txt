@@ -1,0 +1,10 @@
+Start time:'2026-10-20.23.21.21' bin:'./install_hfuzz/bin/pdfinfo', input:'corpus_pdf', output:'evidence/original_run/output', persistent:false, stdin:false, mutation_rate:5, timeout:1, max_runs:0, threads:1, minimize:false, git_commit:01713bdad7307acea887517f2468b4a9961f9806
+[2J[500BExtracted 563 strings from 332 data symbols (dictionary now has 563 entries)
+Dictionary stats: 563 entries, 229 duplicates skipped
+Parsed ./install_hfuzz/bin/pdfinfo: found 16460 32-bit and 14992 64-bit interesting values
+Entering phase: Static
+Launched new fuzzing thread, no. #0
+Maximum run time reached, terminating
+Terminating thread no. #0, left: 0
+Summary iterations:4082 time:31 speed:131 crashes_count:0 timeout_count:0 new_units_added:0 slowest_unit_ms:59 guard_nb:21297 branch_coverage_percent:0 peak_rss_mb:9
+[r[500B
