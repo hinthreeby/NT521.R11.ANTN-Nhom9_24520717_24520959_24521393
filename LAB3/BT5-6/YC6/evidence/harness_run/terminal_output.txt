@@ -1,0 +1,2012 @@
+Persistent signature found in './hfuzz/xpdf-3.02/harness_hfuzz'. Enabling persistent fuzzing mode
+Start time:'2026-10-20.23.20.35' bin:'./hfuzz/xpdf-3.02/harness_hfuzz', input:'corpus_pdf', output:'evidence/harness_run/output', persistent:true, stdin:false, mutation_rate:5, timeout:1, max_runs:0, threads:1, minimize:false, git_commit:01713bdad7307acea887517f2468b4a9961f9806
+[2J[500BExtracted 563 strings from 343 data symbols (dictionary now has 563 entries)
+Dictionary stats: 563 entries, 229 duplicates skipped
+Parsed ./hfuzz/xpdf-3.02/harness_hfuzz: found 17859 32-bit and 16127 64-bit interesting values
+Entering phase 1/3: Dry Run
+Launched new fuzzing thread, no. #0
+Persistent mode: Launched new persistent pid=40771
+Sz:4 Tm:11,678us (i/b/h/e/p/c) New:0/0/0/286/14/7331, Cur:0/0/0/286/14/7331
+Sz:8 Tm:409us (i/b/h/e/p/c) New:0/0/0/2/1/225, Cur:0/0/0/288/15/7556
+Sz:16 Tm:223us (i/b/h/e/p/c) New:0/0/0/2/0/53, Cur:0/0/0/290/15/7609
+Sz:32 Tm:124us (i/b/h/e/p/c) New:0/0/0/0/0/46, Cur:0/0/0/290/15/7655
+Sz:64 Tm:168us (i/b/h/e/p/c) New:0/0/0/4/0/189, Cur:0/0/0/294/15/7844
+Sz:128 Tm:133us (i/b/h/e/p/c) New:0/0/0/8/0/803, Cur:0/0/0/302/15/8647
+Sz:256 Tm:161us (i/b/h/e/p/c) New:0/0/0/0/0/24, Cur:0/0/0/302/15/8671
+Sz:512 Tm:207us (i/b/h/e/p/c) New:0/0/0/2/0/65, Cur:0/0/0/304/15/8736
+Sz:1024 Tm:192us (i/b/h/e/p/c) New:0/0/0/5/0/289, Cur:0/0/0/309/15/9025
+Sz:1024 Tm:183us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/309/15/9030
+Sz:4 Tm:572us (i/b/h/e/p/c) New:0/0/0/0/0/35, Cur:0/0/0/309/15/9065
+Sz:8 Tm:95us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/309/15/9067
+Sz:16 Tm:124us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/309/15/9069
+Sz:64 Tm:138us (i/b/h/e/p/c) New:0/0/0/4/0/142, Cur:0/0/0/313/15/9211
+Sz:128 Tm:167us (i/b/h/e/p/c) New:0/0/0/3/0/60, Cur:0/0/0/316/15/9271
+Sz:256 Tm:702us (i/b/h/e/p/c) New:0/0/0/89/10/4475, Cur:0/0/0/405/25/13746
+Sz:512 Tm:558us (i/b/h/e/p/c) New:0/0/0/19/4/1078, Cur:0/0/0/424/29/14824
+Sz:1024 Tm:338us (i/b/h/e/p/c) New:0/0/0/1/0/220, Cur:0/0/0/425/29/15044
+Sz:2048 Tm:1,270us (i/b/h/e/p/c) New:0/0/0/180/18/8949, Cur:0/0/0/605/47/23993
+Sz:2175 Tm:651us (i/b/h/e/p/c) New:0/0/0/6/1/548, Cur:0/0/0/611/48/24541
+Sz:8 Tm:49us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/611/48/24542
+Sz:16 Tm:88us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/611/48/24544
+Sz:64 Tm:47us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/611/48/24545
+Sz:128 Tm:52us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/611/48/24546
+Sz:256 Tm:98us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/611/48/24549
+Sz:512 Tm:103us (i/b/h/e/p/c) New:0/0/0/0/0/9, Cur:0/0/0/611/48/24558
+Sz:1024 Tm:207us (i/b/h/e/p/c) New:0/0/0/3/0/213, Cur:0/0/0/614/48/24771
+Sz:1510 Tm:334us (i/b/h/e/p/c) New:0/0/0/9/0/1304, Cur:0/0/0/623/48/26075
+Sz:8 Tm:47us (i/b/h/e/p/c) New:0/0/0/0/0/17, Cur:0/0/0/623/48/26092
+Sz:16 Tm:94us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/623/48/26093
+Sz:32 Tm:74us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/623/48/26095
+Sz:64 Tm:84us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/623/48/26096
+Sz:128 Tm:120us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/623/48/26100
+Sz:512 Tm:129us (i/b/h/e/p/c) New:0/0/0/1/0/33, Cur:0/0/0/624/48/26133
+Sz:1024 Tm:255us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/624/48/26134
+Sz:1520 Tm:591us (i/b/h/e/p/c) New:0/0/0/10/1/482, Cur:0/0/0/634/49/26616
+Sz:4 Tm:453us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/634/49/26618
+Sz:8 Tm:216us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/634/49/26619
+Sz:256 Tm:87us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/634/49/26621
+Sz:512 Tm:1,091us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/634/49/26622
+Sz:1024 Tm:554us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/634/49/26623
+Sz:1510 Tm:4,117us (i/b/h/e/p/c) New:0/0/0/29/1/1754, Cur:0/0/0/663/50/28377
+Sz:4 Tm:598us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/663/50/28379
+Sz:64 Tm:1,640us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/663/50/28380
+Sz:1024 Tm:380us (i/b/h/e/p/c) New:0/0/0/1/0/39, Cur:0/0/0/664/50/28419
+Sz:1024 Tm:674us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/664/50/28422
+Sz:8 Tm:74us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/664/50/28424
+Sz:32 Tm:49us (i/b/h/e/p/c) New:0/0/0/0/0/17, Cur:0/0/0/664/50/28441
+Sz:128 Tm:53us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/664/50/28443
+Sz:256 Tm:99us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/664/50/28444
+Sz:1024 Tm:202us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/664/50/28446
+Sz:1512 Tm:609us (i/b/h/e/p/c) New:0/0/0/11/0/918, Cur:0/0/0/675/50/29364
+Sz:4 Tm:184us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/675/50/29368
+Sz:64 Tm:47us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/675/50/29369
+Sz:1024 Tm:130us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/675/50/29370
+Sz:1679 Tm:360us (i/b/h/e/p/c) New:0/0/0/5/0/330, Cur:0/0/0/680/50/29700
+Sz:4 Tm:219us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/680/50/29701
+Sz:1535 Tm:574us (i/b/h/e/p/c) New:0/0/0/7/0/751, Cur:0/0/0/687/50/30452
+Sz:16 Tm:67us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/687/50/30454
+Sz:1024 Tm:365us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/687/50/30455
+Sz:1718 Tm:585us (i/b/h/e/p/c) New:0/0/0/4/0/255, Cur:0/0/0/691/50/30710
+Sz:1024 Tm:267us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/691/50/30711
+Sz:2048 Tm:512us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/691/50/30714
+Sz:2173 Tm:592us (i/b/h/e/p/c) New:0/0/0/0/0/37, Cur:0/0/0/691/50/30751
+Sz:1535 Tm:645us (i/b/h/e/p/c) New:0/0/0/1/0/248, Cur:0/0/0/692/50/30999
+Sz:4 Tm:155us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/692/50/31000
+Sz:512 Tm:131us (i/b/h/e/p/c) New:0/0/0/0/0/7, Cur:0/0/0/692/50/31007
+Sz:1024 Tm:207us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/692/50/31012
+Sz:1510 Tm:506us (i/b/h/e/p/c) New:0/0/0/0/0/19, Cur:0/0/0/692/50/31031
+Sz:128 Tm:67us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/692/50/31033
+Sz:1024 Tm:233us (i/b/h/e/p/c) New:0/0/0/0/0/10, Cur:0/0/0/692/50/31043
+Sz:1510 Tm:546us (i/b/h/e/p/c) New:0/0/0/1/0/282, Cur:0/0/0/693/50/31325
+Sz:1024 Tm:282us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/693/50/31326
+Sz:1510 Tm:418us (i/b/h/e/p/c) New:0/0/0/5/0/321, Cur:0/0/0/698/50/31647
+Sz:1024 Tm:2,500us (i/b/h/e/p/c) New:0/0/0/14/0/612, Cur:0/0/0/712/50/32259
+Sz:2048 Tm:4,746us (i/b/h/e/p/c) New:0/0/0/6/1/316, Cur:0/0/0/718/51/32575
+Sz:4096 Tm:5,935us (i/b/h/e/p/c) New:0/0/0/0/0/72, Cur:0/0/0/718/51/32647
+Sz:5808 Tm:7,285us (i/b/h/e/p/c) New:0/0/0/2/0/64, Cur:0/0/0/720/51/32711
+Sz:2048 Tm:346us (i/b/h/e/p/c) New:0/0/0/1/0/97, Cur:0/0/0/721/51/32808
+Sz:2235 Tm:752us (i/b/h/e/p/c) New:0/0/0/0/0/61, Cur:0/0/0/721/51/32869
+Sz:128 Tm:101us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/721/51/32897
+Sz:928 Tm:254us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/721/51/32898
+Sz:1598 Tm:1,239us (i/b/h/e/p/c) New:0/0/0/6/2/312, Cur:0/0/0/727/53/33210
+Sz:1024 Tm:275us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/727/53/33211
+Sz:4096 Tm:661us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/727/53/33212
+Sz:5096 Tm:1,495us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/727/53/33215
+Sz:8 Tm:81us (i/b/h/e/p/c) New:0/0/0/1/0/32, Cur:0/0/0/728/53/33247
+Sz:16 Tm:102us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/728/53/33248
+Sz:32 Tm:85us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/728/53/33249
+Sz:64 Tm:79us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/728/53/33250
+Sz:256 Tm:576us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/728/53/33251
+Crash: saved as 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:20:35-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40771 exited with status: SIGNALED, signal: 7 (Bus error)
+Sz:1024 Tm:133,990us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/728/53/33252
+Persistent mode: Launched new persistent pid=40777
+Sz:2048 Tm:58,494us (i/b/h/e/p/c) New:0/0/0/10/3/778, Cur:0/0/0/738/56/34030
+Sz:4096 Tm:1,588us (i/b/h/e/p/c) New:0/0/0/3/0/390, Cur:0/0/0/741/56/34420
+Sz:4607 Tm:3,230us (i/b/h/e/p/c) New:0/0/0/0/0/77, Cur:0/0/0/741/56/34497
+Sz:4 Tm:1,814us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/741/56/34498
+Sz:1024 Tm:307us (i/b/h/e/p/c) New:0/0/0/1/0/0, Cur:0/0/0/742/56/34498
+Sz:2048 Tm:392us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/742/56/34500
+Sz:3723 Tm:395us (i/b/h/e/p/c) New:0/0/0/0/0/36, Cur:0/0/0/742/56/34536
+Sz:128 Tm:236us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/742/56/34564
+Sz:256 Tm:272us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/742/56/34565
+Sz:1515 Tm:503us (i/b/h/e/p/c) New:0/0/0/1/0/124, Cur:0/0/0/743/56/34689
+Sz:1506 Tm:443us (i/b/h/e/p/c) New:0/0/0/2/0/43, Cur:0/0/0/745/56/34732
+Sz:1024 Tm:162us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/745/56/34733
+Sz:1519 Tm:316us (i/b/h/e/p/c) New:0/0/0/0/0/40, Cur:0/0/0/745/56/34773
+Sz:128 Tm:199us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/745/56/34774
+Sz:256 Tm:99us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/745/56/34775
+Sz:512 Tm:97us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/745/56/34776
+Sz:1024 Tm:198us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/745/56/34777
+Sz:1528 Tm:214us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/745/56/34778
+Sz:2048 Tm:616us (i/b/h/e/p/c) New:0/0/0/3/2/251, Cur:0/0/0/748/58/35029
+Sz:2048 Tm:680us (i/b/h/e/p/c) New:0/0/0/0/0/24, Cur:0/0/0/748/58/35053
+Sz:1024 Tm:213us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/748/58/35083
+Sz:2048 Tm:325us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/748/58/35084
+Sz:1531 Tm:1,321us (i/b/h/e/p/c) New:0/0/0/5/0/428, Cur:0/0/0/753/58/35512
+Sz:1593 Tm:546us (i/b/h/e/p/c) New:0/0/0/0/0/9, Cur:0/0/0/753/58/35521
+Sz:1024 Tm:484us (i/b/h/e/p/c) New:0/0/0/1/0/6, Cur:0/0/0/754/58/35527
+Sz:1873 Tm:506us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/754/58/35529
+Sz:64 Tm:175us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/754/58/35530
+Sz:1510 Tm:645us (i/b/h/e/p/c) New:0/0/0/0/0/25, Cur:0/0/0/754/58/35555
+Sz:1541 Tm:511us (i/b/h/e/p/c) New:0/0/0/0/0/34, Cur:0/0/0/754/58/35589
+Sz:1527 Tm:578us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/754/58/35593
+Sz:1725 Tm:742us (i/b/h/e/p/c) New:0/0/0/0/0/70, Cur:0/0/0/754/58/35663
+Sz:512 Tm:93us (i/b/h/e/p/c) New:0/0/0/1/0/3, Cur:0/0/0/755/58/35666
+Sz:1024 Tm:349us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/755/58/35667
+Sz:2048 Tm:1,132us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/755/58/35668
+Sz:2048 Tm:264us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/755/58/35670
+Sz:1024 Tm:631us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/755/58/35676
+Sz:1516 Tm:1,587us (i/b/h/e/p/c) New:0/0/0/1/0/227, Cur:0/0/0/756/58/35903
+Sz:1512 Tm:630us (i/b/h/e/p/c) New:0/0/0/1/0/11, Cur:0/0/0/757/58/35914
+Sz:1526 Tm:334us (i/b/h/e/p/c) New:0/0/0/0/0/67, Cur:0/0/0/757/58/35981
+Sz:512 Tm:102us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/757/58/35982
+Sz:1510 Tm:363us (i/b/h/e/p/c) New:0/0/0/1/0/60, Cur:0/0/0/758/58/36042
+Sz:1517 Tm:468us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/758/58/36048
+Sz:1525 Tm:443us (i/b/h/e/p/c) New:0/0/0/0/0/13, Cur:0/0/0/758/58/36061
+Sz:1510 Tm:301us (i/b/h/e/p/c) New:0/0/0/0/0/15, Cur:0/0/0/758/58/36076
+Sz:512 Tm:62us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/758/58/36077
+Sz:4096 Tm:10,479us (i/b/h/e/p/c) New:0/0/0/0/0/11, Cur:0/0/0/758/58/36088
+Sz:4096 Tm:7,117us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/758/58/36091
+Sz:1531 Tm:313us (i/b/h/e/p/c) New:0/0/0/1/0/59, Cur:0/0/0/759/58/36150
+Sz:1514 Tm:475us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/759/58/36151
+Sz:1536 Tm:300us (i/b/h/e/p/c) New:0/0/0/1/0/60, Cur:0/0/0/760/58/36211
+Sz:1510 Tm:200us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/760/58/36212
+Sz:390 Tm:343us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/760/58/36215
+Sz:1024 Tm:204us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/760/58/36216
+Sz:1521 Tm:411us (i/b/h/e/p/c) New:0/0/0/1/0/68, Cur:0/0/0/761/58/36284
+Sz:512 Tm:155us (i/b/h/e/p/c) New:0/0/0/1/0/64, Cur:0/0/0/762/58/36348
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40777 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40783
+Sz:1510 Tm:12,827us (i/b/h/e/p/c) New:0/0/0/1/0/413, Cur:0/0/0/763/58/36761
+Sz:1535 Tm:768us (i/b/h/e/p/c) New:0/0/0/0/0/15, Cur:0/0/0/763/58/36776
+Sz:1527 Tm:459us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/763/58/36782
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40783 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40784
+Sz:1510 Tm:13,257us (i/b/h/e/p/c) New:0/0/0/0/0/227, Cur:0/0/0/763/58/37009
+Sz:2048 Tm:636us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/763/58/37010
+Sz:2195 Tm:1,955us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/763/58/37012
+Sz:2048 Tm:469us (i/b/h/e/p/c) New:0/0/0/1/1/176, Cur:0/0/0/764/59/37188
+Sz:2265 Tm:856us (i/b/h/e/p/c) New:0/0/0/1/0/75, Cur:0/0/0/765/59/37263
+Sz:1024 Tm:193us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/765/59/37266
+Sz:128 Tm:84us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/765/59/37267
+Sz:1024 Tm:219us (i/b/h/e/p/c) New:0/0/0/1/0/36, Cur:0/0/0/766/59/37303
+Sz:2048 Tm:294us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/766/59/37307
+Sz:3066 Tm:897us (i/b/h/e/p/c) New:0/0/0/0/0/40, Cur:0/0/0/766/59/37347
+Sz:1024 Tm:284us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/766/59/37348
+Sz:1572 Tm:359us (i/b/h/e/p/c) New:0/0/0/0/0/38, Cur:0/0/0/766/59/37386
+Sz:1615 Tm:293us (i/b/h/e/p/c) New:0/0/0/1/0/1, Cur:0/0/0/767/59/37387
+Sz:2749 Tm:1,607us (i/b/h/e/p/c) New:0/0/0/1/0/34, Cur:0/0/0/768/59/37421
+Sz:1924 Tm:949us (i/b/h/e/p/c) New:0/0/0/1/0/51, Cur:0/0/0/769/59/37472
+Sz:1510 Tm:481us (i/b/h/e/p/c) New:0/0/0/0/0/11, Cur:0/0/0/769/59/37483
+Sz:256 Tm:172us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/769/59/37484
+Sz:1615 Tm:253us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/769/59/37485
+Sz:2194 Tm:542us (i/b/h/e/p/c) New:0/0/0/2/0/64, Cur:0/0/0/771/59/37549
+Sz:1537 Tm:428us (i/b/h/e/p/c) New:0/0/0/0/0/33, Cur:0/0/0/771/59/37582
+Sz:64 Tm:66us (i/b/h/e/p/c) New:0/0/0/0/0/27, Cur:0/0/0/771/59/37609
+Sz:1510 Tm:331us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/771/59/37614
+Sz:64 Tm:66us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/771/59/37615
+Sz:1542 Tm:347us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/771/59/37621
+Sz:608 Tm:342us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/771/59/37622
+Sz:1525 Tm:384us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/771/59/37626
+Sz:1519 Tm:391us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/771/59/37630
+Sz:1511 Tm:347us (i/b/h/e/p/c) New:0/0/0/1/0/100, Cur:0/0/0/772/59/37730
+Sz:1510 Tm:332us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/772/59/37758
+Sz:1510 Tm:518us (i/b/h/e/p/c) New:0/0/0/0/0/35, Cur:0/0/0/772/59/37793
+Sz:1513 Tm:546us (i/b/h/e/p/c) New:0/0/0/1/0/30, Cur:0/0/0/773/59/37823
+Sz:1511 Tm:659us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/773/59/37825
+Sz:1024 Tm:2,570us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/773/59/37828
+Sz:2048 Tm:4,853us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/773/59/37831
+Sz:4096 Tm:6,444us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/773/59/37835
+Sz:4096 Tm:7,237us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/773/59/37837
+Sz:1510 Tm:706us (i/b/h/e/p/c) New:0/0/0/0/0/35, Cur:0/0/0/773/59/37872
+Sz:1558 Tm:175us (i/b/h/e/p/c) New:0/0/0/0/0/35, Cur:0/0/0/773/59/37907
+Sz:1521 Tm:1,259us (i/b/h/e/p/c) New:0/0/0/0/0/15, Cur:0/0/0/773/59/37922
+Sz:1510 Tm:266us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/773/59/37927
+Sz:1982 Tm:1,057us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/773/59/37929
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40784 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40785
+Sz:1538 Tm:12,222us (i/b/h/e/p/c) New:0/0/0/0/0/7, Cur:0/0/0/773/59/37936
+Sz:1510 Tm:1,885us (i/b/h/e/p/c) New:0/0/0/1/0/48, Cur:0/0/0/774/59/37984
+Sz:1513 Tm:868us (i/b/h/e/p/c) New:0/0/0/0/0/40, Cur:0/0/0/774/59/38024
+Sz:512 Tm:159us (i/b/h/e/p/c) New:0/0/0/0/0/13, Cur:0/0/0/774/59/38037
+Sz:1024 Tm:500us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/774/59/38039
+Sz:1870 Tm:1,350us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/774/59/38044
+Sz:1527 Tm:480us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/774/59/38046
+Sz:1510 Tm:451us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/774/59/38050
+Sz:512 Tm:293us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/774/59/38051
+Sz:512 Tm:284us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/774/59/38054
+Sz:1510 Tm:2,492us (i/b/h/e/p/c) New:0/0/0/1/0/32, Cur:0/0/0/775/59/38086
+Sz:1523 Tm:559us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/775/59/38089
+Sz:1024 Tm:3,544us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/775/59/38090
+Sz:512 Tm:146us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/775/59/38091
+Sz:512 Tm:98us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/775/59/38092
+Sz:2600 Tm:631us (i/b/h/e/p/c) New:0/0/0/0/0/62, Cur:0/0/0/775/59/38154
+Sz:1511 Tm:1,092us (i/b/h/e/p/c) New:0/0/0/0/0/36, Cur:0/0/0/775/59/38190
+Sz:1978 Tm:416us (i/b/h/e/p/c) New:0/0/0/1/0/30, Cur:0/0/0/776/59/38220
+Sz:1517 Tm:2,277us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/776/59/38221
+Sz:64 Tm:93us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/776/59/38222
+Sz:1026 Tm:294us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/776/59/38223
+Sz:1024 Tm:896us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/776/59/38225
+Sz:2048 Tm:1,604us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/776/59/38227
+Sz:3001 Tm:4,475us (i/b/h/e/p/c) New:0/0/0/1/0/58, Cur:0/0/0/777/59/38285
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40785 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40786
+Sz:2048 Tm:12,498us (i/b/h/e/p/c) New:0/0/0/0/0/209, Cur:0/0/0/777/59/38494
+Sz:2048 Tm:1,104us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/777/59/38496
+Sz:256 Tm:782us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/777/59/38528
+Sz:1024 Tm:869us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/777/59/38530
+Sz:1512 Tm:2,615us (i/b/h/e/p/c) New:0/0/0/0/0/9, Cur:0/0/0/777/59/38539
+Sz:1520 Tm:559us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/777/59/38540
+Sz:1524 Tm:2,819us (i/b/h/e/p/c) New:0/0/0/0/0/90, Cur:0/0/0/777/59/38630
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40786 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40787
+Sz:1510 Tm:12,810us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/777/59/38635
+Sz:256 Tm:219us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/777/59/38636
+Sz:1024 Tm:140us (i/b/h/e/p/c) New:0/0/0/1/0/56, Cur:0/0/0/778/59/38692
+Sz:1723 Tm:625us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/778/59/38693
+Sz:1511 Tm:170us (i/b/h/e/p/c) New:0/0/0/1/0/31, Cur:0/0/0/779/59/38724
+Sz:1510 Tm:358us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/779/59/38725
+Sz:1514 Tm:389us (i/b/h/e/p/c) New:0/0/0/0/0/35, Cur:0/0/0/779/59/38760
+Sz:1514 Tm:626us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/779/59/38766
+Sz:1510 Tm:355us (i/b/h/e/p/c) New:0/0/0/0/0/7, Cur:0/0/0/779/59/38773
+Sz:1510 Tm:266us (i/b/h/e/p/c) New:0/0/0/1/0/30, Cur:0/0/0/780/59/38803
+Sz:1510 Tm:492us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/780/59/38804
+Sz:1866 Tm:606us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/780/59/38805
+Sz:1525 Tm:441us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/780/59/38807
+Sz:2194 Tm:699us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/780/59/38809
+Sz:1512 Tm:347us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/780/59/38813
+Sz:1511 Tm:362us (i/b/h/e/p/c) New:0/0/0/0/0/36, Cur:0/0/0/780/59/38849
+Sz:1527 Tm:283us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/780/59/38850
+Sz:4 Tm:119us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/780/59/38851
+Sz:2048 Tm:566us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/780/59/38854
+Sz:2048 Tm:1,052us (i/b/h/e/p/c) New:0/0/0/0/0/27, Cur:0/0/0/780/59/38881
+Sz:1512 Tm:669us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/780/59/38887
+Sz:1511 Tm:185us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/780/59/38888
+Sz:2048 Tm:186us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/780/59/38889
+Sz:2787 Tm:465us (i/b/h/e/p/c) New:0/0/0/0/0/35, Cur:0/0/0/780/59/38924
+Sz:1511 Tm:610us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/780/59/38954
+Sz:1548 Tm:385us (i/b/h/e/p/c) New:0/0/0/1/0/35, Cur:0/0/0/781/59/38989
+Sz:1510 Tm:349us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/781/59/39021
+Sz:1538 Tm:503us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/781/59/39023
+Sz:1512 Tm:352us (i/b/h/e/p/c) New:0/0/0/0/0/35, Cur:0/0/0/781/59/39058
+Sz:1662 Tm:172us (i/b/h/e/p/c) New:0/0/0/1/0/0, Cur:0/0/0/782/59/39058
+Sz:1514 Tm:764us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/782/59/39060
+Sz:1562 Tm:774us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/782/59/39063
+Sz:1512 Tm:784us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/782/59/39069
+Sz:1526 Tm:748us (i/b/h/e/p/c) New:0/0/0/1/0/31, Cur:0/0/0/783/59/39100
+Sz:1719 Tm:263us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/783/59/39132
+Sz:1775 Tm:1,984us (i/b/h/e/p/c) New:0/0/0/0/0/61, Cur:0/0/0/783/59/39193
+Sz:2048 Tm:478us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/783/59/39225
+Sz:1516 Tm:210us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/783/59/39256
+Sz:1024 Tm:271us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/783/59/39258
+Sz:1535 Tm:321us (i/b/h/e/p/c) New:0/0/0/0/0/33, Cur:0/0/0/783/59/39291
+Sz:2832 Tm:675us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/783/59/39292
+Sz:2293 Tm:475us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/783/59/39294
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40787 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40788
+Sz:1870 Tm:12,184us (i/b/h/e/p/c) New:0/0/0/1/0/6, Cur:0/0/0/784/59/39300
+Sz:2108 Tm:409us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/784/59/39302
+Sz:1517 Tm:213us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/784/59/39304
+Sz:1510 Tm:372us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/784/59/39308
+Sz:1543 Tm:203us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/784/59/39340
+Sz:1510 Tm:588us (i/b/h/e/p/c) New:0/0/0/0/0/64, Cur:0/0/0/784/59/39404
+Sz:1527 Tm:299us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/784/59/39406
+Sz:1872 Tm:345us (i/b/h/e/p/c) New:0/0/0/4/1/128, Cur:0/0/0/788/60/39534
+Sz:1514 Tm:241us (i/b/h/e/p/c) New:0/0/0/0/0/9, Cur:0/0/0/788/60/39543
+Sz:256 Tm:67us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/788/60/39544
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40788 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40789
+Sz:2048 Tm:8,650us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/788/60/39547
+Sz:3204 Tm:802us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/788/60/39579
+Sz:1512 Tm:317us (i/b/h/e/p/c) New:0/0/0/0/0/64, Cur:0/0/0/788/60/39643
+Sz:1518 Tm:380us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/788/60/39675
+Sz:1510 Tm:249us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/788/60/39705
+Sz:1588 Tm:180us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/788/60/39708
+Sz:1527 Tm:768us (i/b/h/e/p/c) New:0/0/0/0/0/33, Cur:0/0/0/788/60/39741
+Sz:1707 Tm:421us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/788/60/39742
+Sz:3860 Tm:2,858us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/788/60/39772
+Sz:1510 Tm:453us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/788/60/39773
+Sz:4096 Tm:439us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/788/60/39775
+Sz:6427 Tm:2,150us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/788/60/39777
+Sz:2273 Tm:2,451us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/788/60/39779
+Sz:1526 Tm:451us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/788/60/39781
+Sz:1024 Tm:397us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/788/60/39782
+Sz:1033 Tm:343us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/788/60/39783
+Sz:16 Tm:67us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/788/60/39784
+Sz:1521 Tm:328us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/788/60/39786
+Sz:2231 Tm:618us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/788/60/39790
+Sz:8 Tm:300us (i/b/h/e/p/c) New:0/0/0/1/0/0, Cur:0/0/0/789/60/39790
+Sz:16 Tm:446us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/789/60/39791
+Sz:32 Tm:246us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/789/60/39792
+Sz:64 Tm:182us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/789/60/39793
+Sz:2749 Tm:587us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/789/60/39796
+Sz:1510 Tm:314us (i/b/h/e/p/c) New:0/0/0/0/0/62, Cur:0/0/0/789/60/39858
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40789 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40790
+Sz:1866 Tm:9,473us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/789/60/39862
+Sz:1533 Tm:448us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/789/60/39865
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40790 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40791
+Sz:1510 Tm:7,630us (i/b/h/e/p/c) New:0/0/0/0/0/132, Cur:0/0/0/789/60/39997
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40791 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40792
+Sz:2469 Tm:342us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/789/60/39999
+Sz:1510 Tm:487us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/789/60/40004
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40792 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40793
+Sz:1510 Tm:8,477us (i/b/h/e/p/c) New:0/0/0/1/0/65, Cur:0/0/0/790/60/40069
+Sz:1913 Tm:451us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/790/60/40072
+Sz:1024 Tm:172us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/790/60/40073
+Sz:2231 Tm:1,110us (i/b/h/e/p/c) New:0/0/0/0/0/35, Cur:0/0/0/790/60/40108
+Sz:1510 Tm:213us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/790/60/40110
+Sz:2048 Tm:1,202us (i/b/h/e/p/c) New:0/0/0/0/0/15, Cur:0/0/0/790/60/40125
+Sz:4096 Tm:4,598us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/790/60/40129
+Sz:8192 Tm:20,465us (i/b/h/e/p/c) New:0/0/0/0/0/14, Cur:0/0/0/790/60/40143
+Sz:1539 Tm:309us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/790/60/40144
+Sz:256 Tm:200us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/790/60/40174
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40793 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40794
+Sz:2048 Tm:15,316us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/790/60/40175
+Sz:3201 Tm:794us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/790/60/40178
+Sz:2776 Tm:539us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/790/60/40210
+Sz:1510 Tm:292us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/790/60/40213
+Sz:2048 Tm:433us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/790/60/40219
+Sz:2048 Tm:520us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/790/60/40221
+Sz:1651 Tm:606us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/790/60/40224
+Sz:1863 Tm:474us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/790/60/40225
+Sz:1861 Tm:548us (i/b/h/e/p/c) New:0/0/0/0/0/34, Cur:0/0/0/790/60/40259
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40794 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40795
+Sz:1866 Tm:7,039us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/790/60/40260
+Sz:1519 Tm:292us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/790/60/40261
+Sz:64 Tm:113us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/790/60/40262
+Sz:1529 Tm:418us (i/b/h/e/p/c) New:0/0/0/1/0/31, Cur:0/0/0/791/60/40293
+Sz:1515 Tm:712us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/791/60/40294
+Sz:1512 Tm:930us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/791/60/40295
+Sz:1514 Tm:922us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/791/60/40326
+Sz:1527 Tm:488us (i/b/h/e/p/c) New:0/0/0/0/0/35, Cur:0/0/0/791/60/40361
+Sz:1528 Tm:492us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/791/60/40362
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:36-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40795 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40804
+Sz:1866 Tm:9,025us (i/b/h/e/p/c) New:0/0/0/1/0/33, Cur:0/0/0/792/60/40395
+Sz:1793 Tm:971us (i/b/h/e/p/c) New:0/0/0/0/0/69, Cur:0/0/0/792/60/40464
+Sz:1516 Tm:2,066us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/792/60/40465
+Sz:1519 Tm:706us (i/b/h/e/p/c) New:0/0/0/0/0/35, Cur:0/0/0/792/60/40500
+Sz:2827 Tm:548us (i/b/h/e/p/c) New:0/0/0/0/0/23, Cur:0/0/0/792/60/40523
+Sz:1543 Tm:235us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/792/60/40528
+Sz:1510 Tm:221us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/792/60/40529
+Sz:1660 Tm:512us (i/b/h/e/p/c) New:0/0/0/0/0/34, Cur:0/0/0/792/60/40563
+Sz:1605 Tm:517us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/792/60/40595
+Sz:2465 Tm:381us (i/b/h/e/p/c) New:0/0/0/1/1/127, Cur:0/0/0/793/61/40722
+Sz:2702 Tm:331us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/793/61/40727
+Sz:2048 Tm:510us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/793/61/40728
+Sz:2425 Tm:691us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/793/61/40729
+Sz:8 Tm:146us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/793/61/40730
+Sz:2407 Tm:656us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/793/61/40733
+Sz:1898 Tm:490us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/793/61/40764
+Sz:512 Tm:100us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/793/61/40765
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40804 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40805
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40805 exited with status: SIGNALED, signal: 7 (Bus error)
+Sz:1024 Tm:20,196us (i/b/h/e/p/c) New:0/0/0/0/0/19, Cur:0/0/0/793/61/40784
+Persistent mode: Launched new persistent pid=40806
+Sz:3704 Tm:1,161us (i/b/h/e/p/c) New:0/0/0/0/0/8, Cur:0/0/0/793/61/40792
+Sz:1526 Tm:679us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/793/61/40793
+Sz:1551 Tm:1,011us (i/b/h/e/p/c) New:0/0/0/1/0/6, Cur:0/0/0/794/61/40799
+Sz:1510 Tm:221us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/794/61/40800
+Sz:1518 Tm:386us (i/b/h/e/p/c) New:0/0/0/0/0/35, Cur:0/0/0/794/61/40835
+Sz:1510 Tm:692us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/794/61/40836
+Sz:2775 Tm:444us (i/b/h/e/p/c) New:0/0/0/2/0/35, Cur:0/0/0/796/61/40871
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40806 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40807
+Sz:4096 Tm:1,803us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/796/61/40873
+Sz:1511 Tm:350us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/40874
+Sz:1511 Tm:401us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/40875
+Sz:1514 Tm:530us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/796/61/40878
+Sz:1512 Tm:623us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/796/61/40881
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40807 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40808
+Sz:1511 Tm:9,921us (i/b/h/e/p/c) New:0/0/0/0/0/61, Cur:0/0/0/796/61/40942
+Sz:2048 Tm:560us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/40943
+Sz:8192 Tm:3,296us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/796/61/40974
+Sz:1518 Tm:409us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/796/61/40977
+Sz:1510 Tm:276us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/796/61/41007
+Sz:1526 Tm:411us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/41008
+Sz:1511 Tm:359us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/41009
+Sz:1527 Tm:721us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/41010
+Sz:512 Tm:160us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/41011
+Sz:1024 Tm:1,039us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/796/61/41014
+Sz:1516 Tm:573us (i/b/h/e/p/c) New:0/0/0/0/0/33, Cur:0/0/0/796/61/41047
+Sz:1511 Tm:305us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/41048
+Sz:1510 Tm:342us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/796/61/41078
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40808 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40809
+Sz:1518 Tm:751us (i/b/h/e/p/c) New:0/0/0/0/0/61, Cur:0/0/0/796/61/41139
+Sz:128 Tm:167us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/41140
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40809 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40810
+Sz:1527 Tm:16,437us (i/b/h/e/p/c) New:0/0/0/0/0/34, Cur:0/0/0/796/61/41174
+Sz:2204 Tm:864us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/796/61/41176
+Sz:512 Tm:423us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/796/61/41179
+Sz:1527 Tm:1,586us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/796/61/41211
+Sz:8 Tm:108us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/41212
+Sz:1537 Tm:439us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/796/61/41243
+Sz:1512 Tm:667us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/796/61/41246
+Sz:1517 Tm:485us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/796/61/41249
+Sz:1510 Tm:234us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/796/61/41278
+Sz:1531 Tm:858us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/796/61/41280
+Sz:2048 Tm:403us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/41281
+Sz:2702 Tm:568us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/796/61/41286
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40810 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40811
+Sz:1869 Tm:15,392us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/796/61/41292
+Sz:1521 Tm:408us (i/b/h/e/p/c) New:0/0/0/0/0/33, Cur:0/0/0/796/61/41325
+Sz:1510 Tm:438us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/41326
+Sz:1514 Tm:503us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/796/61/41332
+Sz:1516 Tm:841us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/796/61/41362
+Sz:2702 Tm:1,023us (i/b/h/e/p/c) New:0/0/0/0/0/60, Cur:0/0/0/796/61/41422
+Sz:1510 Tm:772us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/41423
+Sz:1978 Tm:410us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/796/61/41424
+Sz:1510 Tm:520us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/796/61/41426
+Sz:1548 Tm:1,328us (i/b/h/e/p/c) New:0/0/0/2/0/2, Cur:0/0/0/798/61/41428
+Sz:1510 Tm:236us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/798/61/41429
+Sz:1863 Tm:489us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/798/61/41430
+Sz:512 Tm:99us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/798/61/41432
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40811 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40812
+Sz:2048 Tm:11,075us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/798/61/41433
+Sz:4096 Tm:3,079us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/798/61/41462
+Sz:4213 Tm:5,218us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/798/61/41465
+Sz:1511 Tm:274us (i/b/h/e/p/c) New:0/0/0/0/0/8, Cur:0/0/0/798/61/41473
+Sz:1533 Tm:292us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/798/61/41474
+Sz:1646 Tm:1,381us (i/b/h/e/p/c) New:0/0/0/0/0/26, Cur:0/0/0/798/61/41500
+Sz:2182 Tm:3,072us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/798/61/41532
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40812 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40813
+Sz:1562 Tm:667us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/798/61/41534
+Sz:1514 Tm:412us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/798/61/41535
+Sz:2048 Tm:832us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/798/61/41537
+Sz:8192 Tm:21,352us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/798/61/41538
+Sz:1535 Tm:689us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/798/61/41570
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40813 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40814
+Sz:1866 Tm:28,489us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/798/61/41571
+Sz:1526 Tm:763us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/798/61/41572
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40814 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40815
+Sz:2876 Tm:682us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/798/61/41577
+Sz:1514 Tm:742us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/798/61/41579
+Sz:1514 Tm:1,094us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/798/61/41582
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40815 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40816
+Sz:1866 Tm:10,128us (i/b/h/e/p/c) New:0/0/0/0/0/96, Cur:0/0/0/798/61/41678
+Sz:256 Tm:160us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/798/61/41680
+Sz:1533 Tm:663us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/798/61/41682
+Sz:4 Tm:13,238us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/798/61/41684
+Sz:2703 Tm:709us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/798/61/41689
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40816 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40817
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40817 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40818
+Sz:1866 Tm:12,368us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/798/61/41718
+Sz:1510 Tm:568us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/798/61/41720
+Sz:1538 Tm:3,938us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/798/61/41752
+Sz:4374 Tm:13,071us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/798/61/41754
+Sz:8192 Tm:2,241us (i/b/h/e/p/c) New:0/0/0/1/0/2, Cur:0/0/0/799/61/41756
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40818 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40819
+Sz:1511 Tm:10,752us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/799/61/41757
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40819 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40820
+Sz:1885 Tm:11,060us (i/b/h/e/p/c) New:0/0/0/1/0/58, Cur:0/0/0/800/61/41815
+Sz:1512 Tm:1,121us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/800/61/41816
+Sz:1539 Tm:1,470us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/800/61/41818
+Sz:1534 Tm:776us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/800/61/41850
+Sz:2048 Tm:547us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/800/61/41851
+Sz:2660 Tm:1,266us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/800/61/41853
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40820 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40821
+Sz:1870 Tm:18,803us (i/b/h/e/p/c) New:0/0/0/0/0/171, Cur:0/0/0/800/61/42024
+Sz:1509 Tm:310us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/800/61/42028
+Sz:1880 Tm:839us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/800/61/42029
+Crash: saved as 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4bdb0dd.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:20:37-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40821 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40822
+Sz:2975 Tm:23,450us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/800/61/42061
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:38-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40822 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40831
+Sz:1510 Tm:1,761us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/800/61/42063
+Sz:2048 Tm:1,672us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/800/61/42064
+Sz:1529 Tm:559us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/800/61/42065
+Sz:1528 Tm:1,017us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/800/61/42066
+Sz:1526 Tm:590us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/800/61/42067
+Sz:1522 Tm:991us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/800/61/42068
+Sz:1847 Tm:392us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/800/61/42069
+Sz:1529 Tm:411us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/800/61/42070
+Sz:4096 Tm:687us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/800/61/42071
+Sz:8192 Tm:1,899us (i/b/h/e/p/c) New:0/0/0/1/0/60, Cur:0/0/0/801/61/42131
+Sz:2048 Tm:495us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42132
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:38-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40831 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40832
+Sz:1587 Tm:12,472us (i/b/h/e/p/c) New:0/0/0/0/0/33, Cur:0/0/0/801/61/42165
+Sz:1861 Tm:1,141us (i/b/h/e/p/c) New:0/0/0/0/0/24, Cur:0/0/0/801/61/42189
+Sz:1615 Tm:271us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42190
+Sz:2048 Tm:544us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42191
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:38-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40832 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40833
+Sz:1510 Tm:11,849us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42192
+Sz:1540 Tm:875us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/801/61/42194
+Sz:1518 Tm:911us (i/b/h/e/p/c) New:0/0/0/0/0/94, Cur:0/0/0/801/61/42288
+Sz:2048 Tm:702us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42289
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:38-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40833 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40834
+Sz:8192 Tm:4,313us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42290
+Sz:1510 Tm:852us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/801/61/42318
+Sz:1512 Tm:263us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42319
+Sz:8 Tm:105us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42320
+Sz:437 Tm:117us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/801/61/42322
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:38-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40834 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40835
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:38-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40835 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40836
+Sz:2048 Tm:12,018us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42323
+Sz:1513 Tm:708us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/801/61/42326
+Sz:2220 Tm:729us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/801/61/42356
+Sz:1516 Tm:629us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42357
+Sz:1510 Tm:1,336us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42358
+Sz:1515 Tm:474us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42359
+Sz:1510 Tm:467us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/801/61/42363
+Sz:1540 Tm:651us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/801/61/42391
+Sz:1548 Tm:617us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/801/61/42395
+Sz:256 Tm:164us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42396
+Sz:1502 Tm:506us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/801/61/42397
+Sz:3490 Tm:584us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/801/61/42429
+Sz:1863 Tm:1,275us (i/b/h/e/p/c) New:0/0/0/1/0/4, Cur:0/0/0/802/61/42433
+Sz:1518 Tm:312us (i/b/h/e/p/c) New:0/0/0/0/0/59, Cur:0/0/0/802/61/42492
+Sz:2249 Tm:270us (i/b/h/e/p/c) New:0/0/0/0/0/33, Cur:0/0/0/802/61/42525
+Sz:1510 Tm:379us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/802/61/42527
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:38-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40836 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40837
+Sz:1510 Tm:14,012us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42528
+Sz:8192 Tm:10,690us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/802/61/42533
+Sz:1518 Tm:4,327us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42534
+Sz:1510 Tm:761us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42535
+Sz:1547 Tm:580us (i/b/h/e/p/c) New:0/0/0/0/0/38, Cur:0/0/0/802/61/42573
+Sz:1538 Tm:1,143us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/802/61/42602
+Sz:1512 Tm:296us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42603
+Sz:1510 Tm:512us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/802/61/42635
+Sz:1512 Tm:366us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42636
+Sz:1672 Tm:613us (i/b/h/e/p/c) New:0/0/0/0/0/34, Cur:0/0/0/802/61/42670
+Sz:1870 Tm:970us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42671
+Sz:1510 Tm:830us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42672
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:38-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40837 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40838
+Sz:1566 Tm:20,384us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/802/61/42677
+Sz:4075 Tm:2,536us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/802/61/42681
+Sz:1514 Tm:738us (i/b/h/e/p/c) New:0/0/0/0/0/33, Cur:0/0/0/802/61/42714
+Sz:1529 Tm:327us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/802/61/42745
+Sz:2048 Tm:989us (i/b/h/e/p/c) New:0/0/0/0/0/26, Cur:0/0/0/802/61/42771
+Sz:3176 Tm:1,993us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42772
+Sz:1534 Tm:744us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42773
+Sz:1024 Tm:187us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42774
+Sz:1024 Tm:833us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42775
+Sz:256 Tm:221us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42776
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:38-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40838 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40839
+Sz:1510 Tm:16,853us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/802/61/42808
+Sz:1510 Tm:556us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/802/61/42810
+Sz:1514 Tm:1,134us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42811
+Sz:1516 Tm:361us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/802/61/42814
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:38-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40839 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40840
+Sz:1346 Tm:371us (i/b/h/e/p/c) New:0/0/0/0/0/36, Cur:0/0/0/802/61/42850
+Sz:1847 Tm:684us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42851
+Sz:1538 Tm:218us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42852
+Sz:1510 Tm:1,375us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/802/61/42854
+Sz:1845 Tm:788us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42855
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:38-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40840 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40841
+Sz:1514 Tm:12,037us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/802/61/42887
+Sz:1529 Tm:347us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42888
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:38-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40841 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40842
+Sz:2048 Tm:16,470us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42889
+Sz:1741 Tm:1,634us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/802/61/42921
+Sz:1518 Tm:934us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42922
+Sz:2293 Tm:736us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42923
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:39-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40842 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40851
+Sz:2048 Tm:1,263us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42924
+Sz:87 Tm:330us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/802/61/42955
+Sz:1522 Tm:538us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42956
+Sz:1527 Tm:4,711us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/802/61/42987
+Sz:1511 Tm:265us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42988
+Sz:1510 Tm:279us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42989
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:39-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40851 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40852
+Sz:1514 Tm:574us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42990
+Sz:1660 Tm:387us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42991
+Sz:1949 Tm:880us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/802/61/42993
+Sz:2495 Tm:925us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/802/61/42995
+Sz:2048 Tm:796us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42996
+Sz:1024 Tm:326us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42997
+Sz:2203 Tm:468us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/42998
+Sz:1510 Tm:875us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/802/61/43030
+Sz:1518 Tm:1,486us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/802/61/43059
+Sz:1529 Tm:245us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/43060
+Sz:2272 Tm:454us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/43061
+Sz:128 Tm:148us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/802/61/43062
+Sz:1512 Tm:719us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/802/61/43094
+Sz:6863 Tm:7,635us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/802/61/43096
+Sz:4096 Tm:6,779us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/802/61/43098
+Sz:1514 Tm:1,687us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/802/61/43100
+Sz:1520 Tm:981us (i/b/h/e/p/c) New:0/0/0/1/0/24, Cur:0/0/0/803/61/43124
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:39-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40852 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40853
+Sz:2048 Tm:691us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/803/61/43126
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:39-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40853 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40854
+Sz:1510 Tm:522us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/803/61/43129
+Sz:1554 Tm:1,234us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/803/61/43157
+Sz:1706 Tm:744us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/803/61/43158
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:39-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40854 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40855
+Sz:1510 Tm:600us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/803/61/43159
+Sz:1510 Tm:348us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/803/61/43188
+Sz:1538 Tm:441us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/803/61/43220
+Sz:1527 Tm:740us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/803/61/43222
+Sz:3408 Tm:1,213us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/803/61/43254
+Sz:3242 Tm:732us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/803/61/43255
+Sz:1552 Tm:662us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/803/61/43256
+Sz:1520 Tm:1,977us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/803/61/43257
+Sz:1024 Tm:438us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/803/61/43258
+Sz:2048 Tm:301us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/803/61/43259
+Sz:1510 Tm:349us (i/b/h/e/p/c) New:0/0/0/0/0/34, Cur:0/0/0/803/61/43293
+Sz:1527 Tm:264us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/803/61/43294
+Sz:1511 Tm:580us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/803/61/43325
+Sz:1511 Tm:414us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/803/61/43356
+Sz:8 Tm:105us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/803/61/43357
+Sz:128 Tm:87us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/803/61/43385
+Sz:2285 Tm:520us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/803/61/43417
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:39-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40855 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40860
+Sz:1512 Tm:678us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/803/61/43418
+Sz:1527 Tm:560us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/803/61/43449
+Sz:1510 Tm:899us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/803/61/43450
+Sz:1510 Tm:924us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/803/61/43452
+Sz:6998 Tm:14,175us (i/b/h/e/p/c) New:0/0/0/2/0/11, Cur:0/0/0/805/61/43463
+Sz:1510 Tm:320us (i/b/h/e/p/c) New:0/0/0/0/0/25, Cur:0/0/0/805/61/43488
+Sz:1516 Tm:569us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43489
+Sz:1512 Tm:900us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43490
+Sz:1539 Tm:401us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/805/61/43521
+Sz:1522 Tm:596us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43522
+Sz:1512 Tm:578us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/805/61/43524
+Sz:1519 Tm:587us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43525
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:39-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40860 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40861
+Sz:1533 Tm:723us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43526
+Sz:4096 Tm:895us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43527
+Sz:1512 Tm:685us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/805/61/43559
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:39-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40861 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40862
+Sz:2207 Tm:295us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/805/61/43589
+Sz:2048 Tm:1,471us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/805/61/43620
+Sz:8177 Tm:4,845us (i/b/h/e/p/c) New:0/0/0/0/0/27, Cur:0/0/0/805/61/43647
+Sz:2208 Tm:727us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/805/61/43649
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:39-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40862 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40863
+Sz:1201 Tm:11,422us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/805/61/43681
+Sz:1555 Tm:802us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43682
+Sz:1511 Tm:310us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43683
+Sz:2710 Tm:355us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/805/61/43688
+Sz:128 Tm:240us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/805/61/43692
+Sz:256 Tm:161us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43693
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:39-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40863 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40864
+Sz:1583 Tm:1,062us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43694
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:40-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40864 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40873
+Sz:1866 Tm:12,829us (i/b/h/e/p/c) New:0/0/0/0/0/61, Cur:0/0/0/805/61/43755
+Sz:2128 Tm:1,215us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43756
+Sz:1510 Tm:284us (i/b/h/e/p/c) New:0/0/0/0/0/35, Cur:0/0/0/805/61/43791
+Sz:8192 Tm:1,449us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43792
+Sz:1510 Tm:480us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43793
+Sz:1510 Tm:328us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43794
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:40-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40873 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40874
+Sz:1521 Tm:11,192us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43795
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:40-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40874 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40875
+Sz:1559 Tm:793us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/805/61/43797
+Sz:4044 Tm:4,146us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43798
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:40-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40875 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40876
+Sz:2048 Tm:17,465us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43799
+Sz:1512 Tm:1,390us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43800
+Sz:1990 Tm:1,046us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43801
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:40-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40876 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40877
+Sz:1866 Tm:16,663us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43802
+Sz:1514 Tm:1,438us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43803
+Sz:1565 Tm:407us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/805/61/43804
+Sz:8184 Tm:1,299us (i/b/h/e/p/c) New:0/0/0/2/0/3, Cur:0/0/0/807/61/43807
+Sz:1512 Tm:350us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/807/61/43808
+Sz:1511 Tm:452us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/807/61/43837
+Sz:1510 Tm:1,373us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/807/61/43838
+Sz:1513 Tm:242us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/807/61/43842
+Sz:1518 Tm:477us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/807/61/43874
+Sz:1024 Tm:461us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/807/61/43876
+Sz:1521 Tm:870us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/807/61/43878
+Sz:1510 Tm:2,229us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/807/61/43879
+Sz:2425 Tm:411us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/807/61/43880
+Sz:1849 Tm:516us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/807/61/43912
+Sz:1510 Tm:391us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/807/61/43942
+Sz:1511 Tm:291us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/807/61/43943
+Sz:2048 Tm:2,079us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/807/61/43975
+Sz:3066 Tm:6,572us (i/b/h/e/p/c) New:0/0/0/0/0/35, Cur:0/0/0/807/61/44010
+Sz:1538 Tm:419us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/807/61/44040
+Sz:2048 Tm:708us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/807/61/44041
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:40-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40877 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40878
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:40-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40878 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40879
+Sz:1510 Tm:469us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/807/61/44071
+Sz:3774 Tm:581us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/807/61/44072
+Sz:2554 Tm:258us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/807/61/44077
+Sz:1511 Tm:589us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/807/61/44078
+Sz:2048 Tm:4,154us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/807/61/44108
+Sz:1516 Tm:910us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/807/61/44109
+Sz:1992 Tm:486us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/807/61/44110
+Sz:1533 Tm:403us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/807/61/44141
+Sz:1518 Tm:451us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/807/61/44142
+Sz:1510 Tm:234us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/807/61/44146
+Sz:5893 Tm:11,649us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/807/61/44147
+Sz:2048 Tm:309us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/807/61/44148
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:40-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40879 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40880
+Sz:1630 Tm:416us (i/b/h/e/p/c) New:0/0/0/1/0/0, Cur:0/0/0/808/61/44148
+Sz:2048 Tm:731us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/808/61/44150
+Sz:97 Tm:406us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/808/61/44152
+Sz:1527 Tm:539us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/808/61/44153
+Sz:1793 Tm:875us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/808/61/44154
+Sz:1511 Tm:247us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/808/61/44155
+Sz:2048 Tm:1,873us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/808/61/44157
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:41-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40880 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40889
+Sz:1527 Tm:22,610us (i/b/h/e/p/c) New:0/0/0/0/0/123, Cur:0/0/0/808/61/44280
+[2026-10-20T23:20:41-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40889 exited with status: EXITED, exit code: 1
+Sz:512 Tm:10,675us (i/b/h/e/p/c) New:0/0/0/1/0/0, Cur:0/0/0/809/61/44280
+Persistent mode: Launched new persistent pid=40890
+[2026-10-20T23:20:41-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40890 exited with status: EXITED, exit code: 1
+Sz:1024 Tm:32,228us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/809/61/44281
+Persistent mode: Launched new persistent pid=40891
+[2026-10-20T23:20:41-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40891 exited with status: EXITED, exit code: 1
+Sz:1553 Tm:16,226us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/809/61/44282
+Persistent mode: Launched new persistent pid=40892
+Sz:4096 Tm:1,638us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/809/61/44285
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:41-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40892 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40893
+Sz:1546 Tm:488us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/809/61/44286
+Sz:2307 Tm:379us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/809/61/44291
+Sz:2048 Tm:2,623us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/809/61/44292
+Sz:8192 Tm:13,294us (i/b/h/e/p/c) New:0/0/0/1/0/7, Cur:0/0/0/810/61/44299
+Sz:2048 Tm:649us (i/b/h/e/p/c) New:0/0/0/1/0/1, Cur:0/0/0/811/61/44300
+Sz:4096 Tm:1,469us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44301
+Sz:6678 Tm:1,563us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44302
+Sz:8192 Tm:974us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44303
+Sz:1514 Tm:1,123us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44304
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:41-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40893 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40894
+Crash: saved as 'evidence/harness_run/crashes/SIGSEGV.PC.5555556b1994.STACK.d4a048cdf.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:20:41-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40894 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Sz:1518 Tm:10,117us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44305
+Persistent mode: Launched new persistent pid=40895
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:41-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40895 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40896
+Sz:1542 Tm:636us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/811/61/44334
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:41-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40896 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40897
+Sz:2203 Tm:765us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44335
+Sz:1520 Tm:828us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/811/61/44337
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:41-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40897 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40898
+Sz:8192 Tm:1,111us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44338
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:41-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40898 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40899
+Sz:1510 Tm:400us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/811/61/44341
+Sz:1535 Tm:342us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44342
+Sz:64 Tm:171us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/811/61/44370
+Sz:1510 Tm:334us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/811/61/44373
+Entering phase 2/3: Switching to the Feedback Driven Mode
+Entering phase 3/3: Dynamic Main (Feedback Driven Mode)
+Sz:619 Tm:159us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/811/61/44405
+Sz:3880 Tm:895us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44406
+Sz:2048 Tm:666us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44407
+Sz:2919 Tm:6,545us (i/b/h/e/p/c) New:0/0/0/0/0/26, Cur:0/0/0/811/61/44433
+Sz:2048 Tm:1,421us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44434
+Sz:2657 Tm:1,370us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/811/61/44436
+Sz:2048 Tm:1,029us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44437
+Sz:2048 Tm:682us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/811/61/44439
+Sz:2677 Tm:962us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44440
+Sz:2080 Tm:692us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44441
+Sz:1735 Tm:468us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44442
+Sz:1510 Tm:624us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44443
+Sz:1720 Tm:673us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44444
+Sz:1516 Tm:346us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/811/61/44446
+Sz:1523 Tm:171us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44447
+Sz:1510 Tm:314us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/811/61/44449
+Sz:1024 Tm:1,890us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44450
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:41-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40899 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40900
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:42-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40900 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40909
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:42-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40909 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40910
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:42-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40910 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40911
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:42-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40911 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40912
+Sz:1547 Tm:2,057us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44451
+Sz:8192 Tm:906us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44452
+Sz:1511 Tm:415us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44453
+Sz:1550 Tm:464us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44454
+Sz:6072 Tm:5,152us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44455
+Sz:2048 Tm:433us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/811/61/44457
+Sz:2889 Tm:918us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44458
+Sz:2048 Tm:704us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44459
+Sz:2052 Tm:738us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44460
+Sz:1534 Tm:186us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/811/61/44462
+[2026-10-20T23:20:42-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40912 exited with status: EXITED, exit code: 1
+Sz:1524 Tm:1,680us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44463
+Persistent mode: Launched new persistent pid=40913
+Sz:1520 Tm:467us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/811/61/44465
+Sz:1520 Tm:299us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/811/61/44495
+Sz:2672 Tm:996us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/811/61/44523
+Sz:1541 Tm:2,071us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44524
+Sz:2180 Tm:405us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44525
+Sz:5297 Tm:443us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/811/61/44527
+Sz:1758 Tm:1,275us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/811/61/44559
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:42-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40913 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40914
+Sz:1579 Tm:761us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44560
+Sz:1543 Tm:1,163us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/811/61/44562
+Sz:1535 Tm:662us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44563
+Sz:2175 Tm:939us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44564
+Sz:2175 Tm:3,272us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44565
+Sz:2175 Tm:752us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44566
+Sz:2210 Tm:651us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44567
+Sz:2175 Tm:760us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44568
+Sz:2194 Tm:661us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44569
+Sz:2175 Tm:1,213us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44570
+Sz:4284 Tm:7,287us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44571
+Sz:2204 Tm:436us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44572
+Sz:2056 Tm:3,051us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/811/61/44573
+Sz:1598 Tm:438us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/811/61/44578
+Sz:1598 Tm:506us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/811/61/44581
+Sz:1591 Tm:701us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/811/61/44586
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40914 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40923
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40923 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40924
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40924 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40925
+Sz:8192 Tm:14,422us (i/b/h/e/p/c) New:0/0/0/2/0/101, Cur:0/0/0/813/61/44687
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40925 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40926
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40926 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40927
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40927 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40928
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40928 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40929
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40929 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40930
+Sz:1537 Tm:1,246us (i/b/h/e/p/c) New:0/0/0/0/0/24, Cur:0/0/0/813/61/44711
+Sz:1531 Tm:633us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44712
+Sz:1924 Tm:795us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44713
+Sz:1531 Tm:818us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44714
+Sz:1645 Tm:1,658us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/813/61/44746
+Sz:1679 Tm:221us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44747
+Sz:1679 Tm:602us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/813/61/44777
+Sz:1683 Tm:353us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44778
+Sz:1679 Tm:355us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44779
+Sz:1707 Tm:226us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44780
+Sz:1510 Tm:186us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44781
+Sz:1768 Tm:236us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44782
+Sz:1512 Tm:277us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44783
+Sz:1510 Tm:299us (i/b/h/e/p/c) New:0/0/0/0/0/64, Cur:0/0/0/813/61/44847
+Sz:1731 Tm:523us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44848
+Sz:2649 Tm:2,244us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44849
+Sz:1726 Tm:441us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44850
+Sz:1719 Tm:416us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44851
+Sz:1718 Tm:349us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44852
+Sz:1735 Tm:905us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44853
+Sz:1729 Tm:526us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44854
+Sz:1872 Tm:294us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/813/61/44858
+Sz:1872 Tm:233us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44859
+Sz:1872 Tm:167us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/813/61/44863
+Sz:1874 Tm:334us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/813/61/44866
+Sz:1872 Tm:394us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44867
+Sz:2048 Tm:557us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/813/61/44869
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40930 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40931
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40931 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40932
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40932 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40933
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40933 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40934
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40934 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40935
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:43-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40935 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40940
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:44-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40940 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40945
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:44-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40945 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40946
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:44-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40946 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40947
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:44-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40947 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40948
+Sz:2194 Tm:619us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44870
+Sz:2194 Tm:630us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44871
+[2026-10-20T23:20:44-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40948 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=40949
+Sz:2196 Tm:13,655us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44872
+Sz:1552 Tm:273us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44873
+Sz:3672 Tm:220us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44874
+Sz:1548 Tm:401us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/813/61/44876
+Sz:2775 Tm:357us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/813/61/44878
+Sz:2775 Tm:469us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/813/61/44881
+Sz:2775 Tm:279us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/813/61/44883
+Sz:8184 Tm:3,454us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/813/61/44888
+Sz:3411 Tm:1,251us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44889
+Sz:1867 Tm:243us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44890
+Sz:1516 Tm:1,455us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44891
+Sz:1531 Tm:329us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44892
+[2026-10-20T23:20:44-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40949 exited with status: EXITED, exit code: 1
+Sz:2054 Tm:1,341us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44893
+Persistent mode: Launched new persistent pid=40950
+Sz:2007 Tm:1,187us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44894
+Sz:1978 Tm:1,345us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44895
+Sz:1989 Tm:1,307us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44896
+Sz:1526 Tm:457us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/813/61/44925
+Sz:1551 Tm:672us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44926
+Sz:1510 Tm:1,638us (i/b/h/e/p/c) New:0/0/0/0/0/10, Cur:0/0/0/813/61/44936
+Sz:1024 Tm:199us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44937
+Sz:1511 Tm:295us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44938
+Sz:1511 Tm:130us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44939
+Sz:1511 Tm:182us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44940
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:44-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40950 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40951
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:44-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40951 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40952
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:44-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40952 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40953
+Sz:2478 Tm:1,299us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/813/61/44941
+Sz:1036 Tm:1,221us (i/b/h/e/p/c) New:0/0/0/1/0/1, Cur:0/0/0/814/61/44942
+Sz:1026 Tm:940us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/44943
+Sz:1520 Tm:502us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/44944
+Sz:2468 Tm:485us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/44945
+Sz:1630 Tm:257us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/44946
+Sz:2048 Tm:659us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/44947
+Sz:1024 Tm:151us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/44948
+Sz:1032 Tm:162us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/44949
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:44-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40953 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40954
+Sz:1510 Tm:585us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/44950
+Sz:7159 Tm:7,131us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/814/61/44952
+Sz:1512 Tm:514us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/44953
+Sz:1555 Tm:494us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/814/61/44981
+Sz:3419 Tm:881us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/814/61/44985
+Sz:1546 Tm:392us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/814/61/45015
+Sz:1510 Tm:256us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45016
+Sz:1516 Tm:360us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/814/61/45019
+Sz:2832 Tm:533us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45020
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:44-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40954 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40955
+[2026-10-20T23:20:44-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40955 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=40956
+Sz:1539 Tm:413us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45021
+Sz:1866 Tm:384us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45022
+Sz:1871 Tm:880us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45023
+Sz:1511 Tm:532us (i/b/h/e/p/c) New:0/0/0/0/0/36, Cur:0/0/0/814/61/45059
+Sz:2702 Tm:737us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/814/61/45062
+Sz:1769 Tm:1,419us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/814/61/45064
+Sz:1978 Tm:2,320us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45065
+Sz:2898 Tm:1,513us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/814/61/45068
+Sz:2048 Tm:1,666us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45069
+Sz:1949 Tm:890us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45070
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:45-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40956 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40965
+Sz:1510 Tm:364us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45071
+Sz:1514 Tm:1,433us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45072
+Sz:1510 Tm:285us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45073
+Sz:1872 Tm:286us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/814/61/45077
+Sz:3490 Tm:542us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/814/61/45106
+Sz:2249 Tm:403us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45107
+Sz:2948 Tm:861us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45108
+Sz:1551 Tm:716us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45109
+Sz:1026 Tm:888us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45110
+Sz:1630 Tm:295us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45111
+Sz:2184 Tm:432us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45112
+Sz:2050 Tm:1,018us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45113
+Sz:32 Tm:105us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45114
+Sz:1178 Tm:313us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/814/61/45142
+Sz:1047 Tm:181us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45143
+[2026-10-20T23:20:45-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40965 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=40966
+Sz:1739 Tm:630us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45144
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:45-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40966 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40967
+Sz:6525 Tm:3,086us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/814/61/45148
+Sz:1531 Tm:1,093us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45149
+Sz:1207 Tm:1,063us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45150
+Sz:1630 Tm:1,001us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45151
+Sz:1577 Tm:5,959us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45152
+Sz:2139 Tm:1,058us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45153
+[2026-10-20T23:20:45-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40967 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=40968
+Sz:2974 Tm:1,378us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45154
+Crash (dup): 'evidence/harness_run/crashes/SIGSEGV.PC.5555556b1994.STACK.d4a048cdf.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:45-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40968 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Persistent mode: Launched new persistent pid=40969
+Sz:1510 Tm:394us (i/b/h/e/p/c) New:0/0/0/0/0/61, Cur:0/0/0/814/61/45215
+Sz:1510 Tm:491us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45216
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:46-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40969 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40978
+Sz:1024 Tm:2,237us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/814/61/45247
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:46-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40978 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40979
+Sz:1030 Tm:548us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/814/61/45248
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:46-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40979 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40980
+Sz:1349 Tm:383us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/814/61/45278
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:46-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40980 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40981
+Sz:1512 Tm:424us (i/b/h/e/p/c) New:0/0/0/2/3/165, Cur:0/0/0/816/64/45443
+Crash: saved as 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4f16b0d.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:20:46-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40981 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40982
+Sz:2084 Tm:1,335us (i/b/h/e/p/c) New:0/0/0/1/0/29, Cur:0/0/0/817/64/45472
+Sz:8192 Tm:29,080us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/817/64/45504
+Sz:2054 Tm:4,004us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/817/64/45506
+Sz:2052 Tm:3,347us (i/b/h/e/p/c) New:0/0/0/0/0/7, Cur:0/0/0/817/64/45513
+Sz:2062 Tm:2,164us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/817/64/45514
+Sz:1598 Tm:120us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/817/64/45543
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40982 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=40991
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40991 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40992
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40992 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40993
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40993 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40995
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40995 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40996
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40996 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40997
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40997 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40998
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40998 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=40999
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=40999 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41000
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41000 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41001
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41001 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41002
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41002 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41003
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41003 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41004
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:47-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41004 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41005
+Sz:1679 Tm:216us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/817/64/45544
+Sz:1679 Tm:319us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/817/64/45545
+Sz:1679 Tm:343us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/817/64/45546
+Sz:1679 Tm:572us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/817/64/45575
+Sz:1514 Tm:269us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/817/64/45604
+Sz:1879 Tm:241us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/817/64/45634
+Sz:1875 Tm:1,168us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/817/64/45635
+Sz:1872 Tm:361us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/817/64/45664
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41005 exited with status: EXITED, exit code: 1
+Sz:2151 Tm:1,373us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/817/64/45665
+Persistent mode: Launched new persistent pid=41014
+Sz:2050 Tm:459us (i/b/h/e/p/c) New:0/0/0/2/0/299, Cur:0/0/0/819/64/45964
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41014 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41015
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41015 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41016
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41016 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41017
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41017 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41018
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41018 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41019
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41019 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41020
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41020 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41021
+Sz:2050 Tm:581us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/45965
+Sz:2052 Tm:588us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/45966
+Sz:2050 Tm:844us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/45967
+Sz:2068 Tm:733us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/45968
+Sz:2823 Tm:302us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/45969
+Sz:8184 Tm:1,517us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/45970
+Sz:1512 Tm:259us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/819/64/45972
+Sz:1512 Tm:280us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/819/64/45974
+Sz:1519 Tm:812us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/819/64/45976
+Sz:1515 Tm:152us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/819/64/45978
+Sz:1512 Tm:377us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/819/64/45980
+Sz:1743 Tm:719us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/819/64/45982
+Sz:1512 Tm:296us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/819/64/45984
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41021 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41022
+Sz:2115 Tm:850us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/819/64/46014
+Sz:1510 Tm:3,105us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46015
+Sz:1515 Tm:983us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/819/64/46047
+Sz:1534 Tm:470us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46048
+Sz:1510 Tm:191us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46049
+Sz:1024 Tm:436us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46050
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41022 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41023
+Sz:1512 Tm:1,581us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46051
+Sz:8192 Tm:1,828us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46052
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41023 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41024
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41024 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41025
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41025 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41026
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41026 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41027
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41027 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41028
+Sz:2084 Tm:638us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46053
+Sz:2084 Tm:700us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46054
+Sz:2084 Tm:807us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46055
+Sz:2084 Tm:803us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46056
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:48-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41028 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41029
+Sz:1024 Tm:167us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46057
+Sz:1662 Tm:392us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46058
+Sz:1713 Tm:266us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46059
+Sz:1611 Tm:475us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46060
+Sz:2533 Tm:589us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46061
+Sz:2076 Tm:720us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46062
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:49-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41029 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41038
+Sz:1539 Tm:475us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46063
+Sz:1510 Tm:739us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/819/64/46067
+Sz:3209 Tm:890us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46068
+Sz:2233 Tm:681us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/819/64/46070
+Sz:1530 Tm:617us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46071
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:49-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41038 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41039
+Crash (dup): 'evidence/harness_run/crashes/SIGSEGV.PC.5555556b1994.STACK.d4a048cdf.CODE.128.ADDR.0.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:49-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41039 exited with status: SIGNALED, signal: 11 (Segmentation fault)
+Persistent mode: Launched new persistent pid=41040
+Sz:1523 Tm:833us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/819/64/46101
+Sz:4399 Tm:966us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46102
+Sz:1510 Tm:264us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46103
+Sz:2898 Tm:1,275us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46104
+Sz:1511 Tm:247us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46105
+Sz:1510 Tm:292us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46106
+Sz:1510 Tm:825us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46107
+Sz:1872 Tm:1,181us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/819/64/46135
+Sz:1679 Tm:229us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46136
+Sz:136 Tm:351us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46137
+Sz:2775 Tm:300us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46138
+Sz:2138 Tm:1,695us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46139
+Sz:1615 Tm:155us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46140
+Sz:1518 Tm:183us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46141
+Sz:1672 Tm:418us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46142
+Sz:1527 Tm:816us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46143
+Sz:1992 Tm:575us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46144
+Sz:1551 Tm:324us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46145
+Sz:1510 Tm:292us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46146
+Sz:2049 Tm:906us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46147
+Sz:2084 Tm:372us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/819/64/46178
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4bdb0dd.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:50-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41040 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41049
+Sz:1762 Tm:308us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46179
+[2026-10-20T23:20:50-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41049 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41050
+[2026-10-20T23:20:50-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41050 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41051
+Sz:1630 Tm:435us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46180
+Sz:1884 Tm:3,202us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46181
+Sz:1510 Tm:252us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/819/64/46210
+Sz:8192 Tm:824us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46211
+Sz:1630 Tm:836us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/819/64/46243
+[2026-10-20T23:20:50-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41051 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41052
+Sz:2189 Tm:1,090us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46244
+[2026-10-20T23:20:50-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41052 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41053
+Sz:2143 Tm:1,722us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46245
+[2026-10-20T23:20:50-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41053 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41054
+Sz:2160 Tm:847us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/819/64/46275
+Crash: saved as 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4acc293.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:20:50-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41054 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41055
+Sz:2821 Tm:1,106us (i/b/h/e/p/c) New:0/0/0/0/0/63, Cur:0/0/0/819/64/46338
+Sz:1510 Tm:474us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46339
+Sz:2454 Tm:542us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/819/64/46340
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:50-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41055 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41056
+Sz:1241 Tm:731us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/819/64/46342
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:50-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41056 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41057
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:51-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41057 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41066
+Sz:4023 Tm:2,725us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/819/64/46344
+[2026-10-20T23:20:51-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41066 exited with status: EXITED, exit code: 1
+Sz:1531 Tm:897us (i/b/h/e/p/c) New:0/0/0/1/0/0, Cur:0/0/0/820/64/46344
+Persistent mode: Launched new persistent pid=41067
+Sz:2048 Tm:6,272us (i/b/h/e/p/c) New:0/0/0/1/0/28, Cur:0/0/0/821/64/46372
+Sz:1701 Tm:888us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/821/64/46373
+Sz:1517 Tm:892us (i/b/h/e/p/c) New:0/0/0/0/0/61, Cur:0/0/0/821/64/46434
+Sz:2218 Tm:7,224us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/821/64/46435
+Sz:1609 Tm:212us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/821/64/46467
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4bdb0dd.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:51-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41067 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41068
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41068 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41077
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41077 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41078
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41078 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41079
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41079 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41080
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41080 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41081
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41081 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41082
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41082 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41083
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41083 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41084
+Sz:1510 Tm:493us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/821/64/46497
+Sz:1720 Tm:410us (i/b/h/e/p/c) New:0/0/0/1/0/33, Cur:0/0/0/822/64/46530
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41084 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41088
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41088 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41089
+Sz:1894 Tm:531us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/822/64/46562
+Sz:2049 Tm:687us (i/b/h/e/p/c) New:0/0/0/0/0/52, Cur:0/0/0/822/64/46614
+Sz:2041 Tm:926us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/822/64/46615
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41089 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41090
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41090 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41091
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41091 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41092
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:52-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41092 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41093
+Sz:2802 Tm:766us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/822/64/46616
+Crash: saved as 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ae2968.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:20:53-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41093 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41102
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:53-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41102 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41103
+Sz:8192 Tm:4,214us (i/b/h/e/p/c) New:0/0/0/1/0/1, Cur:0/0/0/823/64/46617
+Sz:3020 Tm:572us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/823/64/46618
+Sz:8183 Tm:2,022us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/823/64/46619
+Sz:1510 Tm:285us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/823/64/46620
+Sz:1511 Tm:354us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/823/64/46621
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:53-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41103 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41104
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:53-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41104 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41105
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:53-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41105 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41106
+Sz:2088 Tm:1,271us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/823/64/46622
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:53-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41106 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41107
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4bdb0dd.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:53-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41107 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41108
+Sz:1730 Tm:554us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/823/64/46623
+Sz:1738 Tm:480us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/823/64/46624
+Sz:1735 Tm:705us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/823/64/46625
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:53-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41108 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41109
+[2026-10-20T23:20:53-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41109 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41110
+[2026-10-20T23:20:53-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41110 exited with status: EXITED, exit code: 1
+Sz:1550 Tm:1,263us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/823/64/46626
+Persistent mode: Launched new persistent pid=41111
+[2026-10-20T23:20:53-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41111 exited with status: EXITED, exit code: 1
+Sz:1531 Tm:15,890us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/823/64/46627
+Persistent mode: Launched new persistent pid=41112
+Sz:1531 Tm:2,165us (i/b/h/e/p/c) New:0/0/0/1/0/0, Cur:0/0/0/824/64/46627
+Sz:1511 Tm:2,035us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/824/64/46628
+Sz:1511 Tm:1,408us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/824/64/46630
+Sz:1730 Tm:638us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/824/64/46631
+Sz:1519 Tm:285us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/824/64/46663
+Sz:1526 Tm:821us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/824/64/46664
+Sz:1870 Tm:2,022us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/824/64/46695
+Sz:1675 Tm:826us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/824/64/46726
+Sz:2056 Tm:940us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/824/64/46727
+Sz:2177 Tm:566us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/824/64/46759
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:53-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41112 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41113
+[2026-10-20T23:20:53-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41113 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41114
+Sz:3077 Tm:2,244us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/824/64/46760
+Sz:4142 Tm:1,530us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/824/64/46761
+Sz:8192 Tm:3,303us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/824/64/46763
+Sz:1620 Tm:1,317us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/824/64/46764
+Sz:1538 Tm:816us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/824/64/46795
+Sz:1676 Tm:3,698us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/824/64/46797
+Sz:1823 Tm:880us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/824/64/46825
+Sz:1520 Tm:735us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/824/64/46826
+Sz:2041 Tm:732us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/824/64/46827
+Sz:1510 Tm:205us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/824/64/46828
+Sz:1510 Tm:454us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/824/64/46829
+Sz:1510 Tm:379us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/824/64/46830
+Sz:1526 Tm:431us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/824/64/46831
+Sz:1513 Tm:440us (i/b/h/e/p/c) New:0/0/0/1/0/64, Cur:0/0/0/825/64/46895
+Sz:3410 Tm:1,080us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/825/64/46896
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:54-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41114 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41123
+Sz:2285 Tm:416us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/825/64/46897
+Sz:4753 Tm:1,555us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/825/64/46898
+Sz:2190 Tm:633us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/825/64/46899
+Sz:1367 Tm:3,138us (i/b/h/e/p/c) New:0/0/0/2/0/95, Cur:0/0/0/827/64/46994
+Sz:1531 Tm:333us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/827/64/46995
+Sz:2412 Tm:499us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/827/64/46997
+Sz:1655 Tm:812us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/827/64/47002
+[2026-10-20T23:20:54-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41123 exited with status: EXITED, exit code: 1
+Sz:1515 Tm:1,026us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/827/64/47003
+Persistent mode: Launched new persistent pid=41124
+Sz:2014 Tm:1,019us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/827/64/47004
+Sz:1510 Tm:293us (i/b/h/e/p/c) New:0/0/0/0/0/24, Cur:0/0/0/827/64/47028
+[2026-10-20T23:20:54-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41124 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41125
+Sz:8192 Tm:12,965us (i/b/h/e/p/c) New:0/0/0/1/1/85, Cur:0/0/0/828/65/47113
+[2026-10-20T23:20:54-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41125 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41126
+[2026-10-20T23:20:54-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41126 exited with status: EXITED, exit code: 1
+Sz:1617 Tm:9,773us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/828/65/47114
+Persistent mode: Launched new persistent pid=41127
+Sz:3411 Tm:1,133us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/828/65/47115
+[2026-10-20T23:20:54-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41127 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41128
+[2026-10-20T23:20:54-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41128 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41129
+Sz:1531 Tm:723us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/828/65/47147
+[2026-10-20T23:20:55-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41129 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41138
+Sz:1517 Tm:597us (i/b/h/e/p/c) New:0/0/0/2/0/93, Cur:0/0/0/830/65/47240
+Sz:1024 Tm:740us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/830/65/47242
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:55-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41138 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41139
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:55-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41139 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41140
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:55-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41140 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41141
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:55-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41141 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41142
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:55-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41142 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41143
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:55-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41143 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41144
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:55-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41144 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41145
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:55-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41145 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41146
+Sz:6166 Tm:1,017us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/830/65/47243
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:56-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41146 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41164
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:56-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41164 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41165
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:56-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41165 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41169
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:56-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41169 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41170
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:56-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41170 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41171
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:56-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41171 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41172
+Sz:4260 Tm:7,784us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/830/65/47244
+Sz:1538 Tm:932us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/830/65/47245
+Sz:1680 Tm:395us (i/b/h/e/p/c) New:0/0/0/0/0/30, Cur:0/0/0/830/65/47275
+Sz:1679 Tm:783us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/830/65/47303
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41172 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41181
+Sz:1649 Tm:1,501us (i/b/h/e/p/c) New:0/0/0/0/0/31, Cur:0/0/0/830/65/47334
+Sz:2076 Tm:654us (i/b/h/e/p/c) New:0/0/0/1/0/32, Cur:0/0/0/831/65/47366
+Sz:2511 Tm:940us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47367
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41181 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41182
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41182 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41183
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41183 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41184
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41184 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41185
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41185 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41186
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41186 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41187
+Sz:1367 Tm:2,957us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/831/65/47369
+Sz:1367 Tm:4,115us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/831/65/47371
+Sz:1367 Tm:4,015us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/831/65/47373
+Sz:2174 Tm:673us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/831/65/47375
+Sz:6438 Tm:884us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/831/65/47377
+Sz:2467 Tm:841us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/831/65/47379
+Sz:1517 Tm:301us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/831/65/47381
+Sz:1517 Tm:477us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/831/65/47383
+Sz:1512 Tm:229us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/831/65/47415
+Sz:1535 Tm:1,269us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47416
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41187 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41188
+Sz:1979 Tm:330us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47417
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41188 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41189
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41189 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41190
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41190 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41191
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41191 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41192
+Sz:2466 Tm:1,272us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47418
+Sz:2048 Tm:698us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47419
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41192 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41193
+Sz:2076 Tm:549us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47420
+Sz:2076 Tm:694us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47421
+Sz:3118 Tm:457us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47422
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41193 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41194
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41194 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41195
+Sz:1513 Tm:567us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47423
+Sz:1513 Tm:655us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47424
+Sz:2084 Tm:985us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47425
+Sz:1522 Tm:438us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47426
+Sz:1519 Tm:568us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47427
+[2026-10-20T23:20:57-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41195 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41196
+Sz:1731 Tm:805us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47428
+Sz:1511 Tm:1,095us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/831/65/47429
+Sz:1024 Tm:712us (i/b/h/e/p/c) New:0/0/0/2/0/92, Cur:0/0/0/833/65/47521
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:58-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41196 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41205
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:58-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41205 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41206
+Sz:1026 Tm:445us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/833/65/47523
+Sz:4363 Tm:1,295us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47524
+[2026-10-20T23:20:58-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41206 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41207
+Sz:5138 Tm:1,461us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/833/65/47556
+Sz:1512 Tm:255us (i/b/h/e/p/c) New:0/0/0/0/0/96, Cur:0/0/0/833/65/47652
+Sz:1660 Tm:277us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47653
+Sz:1512 Tm:173us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47654
+Sz:1511 Tm:163us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47655
+Sz:1511 Tm:381us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47656
+Sz:1551 Tm:704us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47657
+Sz:3118 Tm:388us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47658
+Sz:1537 Tm:479us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47659
+Sz:1910 Tm:381us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47660
+Crash: saved as 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4bdcddb.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:20:58-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41207 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41208
+Sz:1520 Tm:382us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/833/65/47662
+Sz:8192 Tm:19,380us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47663
+Sz:2109 Tm:317us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47664
+Sz:2775 Tm:483us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47665
+Sz:5332 Tm:4,087us (i/b/h/e/p/c) New:0/0/0/0/0/33, Cur:0/0/0/833/65/47698
+Sz:1367 Tm:2,858us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/833/65/47700
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41208 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41214
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41214 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41218
+Sz:1551 Tm:565us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47701
+Sz:1511 Tm:204us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/833/65/47733
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41218 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41219
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41219 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41220
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41220 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41221
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41221 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41222
+Sz:1530 Tm:786us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47734
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41222 exited with status: EXITED, exit code: 1
+Sz:2765 Tm:2,181us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47735
+Persistent mode: Launched new persistent pid=41223
+Sz:1682 Tm:449us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47736
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41223 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41224
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41224 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41225
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41225 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41226
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41226 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41227
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41227 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41228
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41228 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41229
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41229 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41230
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:20:59-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41230 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41231
+Sz:8192 Tm:12,937us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47737
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:00-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41231 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41240
+Sz:1512 Tm:1,438us (i/b/h/e/p/c) New:0/0/0/0/0/13, Cur:0/0/0/833/65/47750
+Sz:8192 Tm:2,220us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/833/65/47752
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:00-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41240 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41241
+Sz:1522 Tm:331us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47753
+Sz:1510 Tm:274us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/833/65/47757
+Sz:8192 Tm:1,537us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47758
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:00-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41241 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41242
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:00-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41242 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41243
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:00-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41243 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41244
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:00-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41244 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41249
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:00-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41249 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41250
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:00-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41250 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41255
+Sz:1539 Tm:1,059us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/833/65/47759
+Sz:1679 Tm:368us (i/b/h/e/p/c) New:0/0/0/2/1/119, Cur:0/0/0/835/66/47878
+Sz:1679 Tm:674us (i/b/h/e/p/c) New:0/0/0/0/0/62, Cur:0/0/0/835/66/47940
+Sz:1872 Tm:373us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/835/66/47941
+Sz:3173 Tm:574us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/835/66/47942
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41255 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41265
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41265 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41266
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41266 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41267
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4bdb0dd.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41267 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41268
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41268 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41269
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41269 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41270
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41270 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41271
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41271 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41272
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41272 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41273
+Sz:2050 Tm:558us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/835/66/47943
+Sz:2050 Tm:555us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/835/66/47944
+Sz:2198 Tm:496us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/835/66/47945
+Sz:2194 Tm:303us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/835/66/47946
+Sz:1380 Tm:3,067us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/47948
+Sz:1521 Tm:282us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/47950
+Sz:1526 Tm:286us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/835/66/47951
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41273 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41274
+Sz:1034 Tm:1,883us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/47953
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41274 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41275
+Sz:1036 Tm:260us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/47955
+Sz:1024 Tm:217us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/47957
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41275 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41276
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41276 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41277
+Sz:1764 Tm:14,669us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/47959
+Sz:1671 Tm:509us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/47961
+Sz:1679 Tm:270us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/47963
+Sz:1920 Tm:791us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/47965
+Sz:1679 Tm:592us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/47967
+Sz:1679 Tm:362us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/47969
+Sz:4014 Tm:1,033us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/47971
+Sz:1707 Tm:324us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/47973
+Sz:1512 Tm:282us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/835/66/47974
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41277 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41278
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41278 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41279
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41279 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41280
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41280 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41281
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41281 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41285
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41285 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41286
+Sz:2076 Tm:534us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/835/66/48006
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41286 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41287
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41287 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41288
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41288 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41289
+[2026-10-20T23:21:01-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41289 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41290
+Sz:1049 Tm:329us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/835/66/48008
+Sz:1514 Tm:510us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/835/66/48040
+Sz:2048 Tm:403us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/835/66/48041
+Sz:5951 Tm:2,895us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/835/66/48069
+Sz:1510 Tm:227us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/835/66/48098
+Sz:4771 Tm:971us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/835/66/48099
+Sz:1737 Tm:411us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/835/66/48100
+Sz:1798 Tm:1,173us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/835/66/48101
+Sz:1547 Tm:418us (i/b/h/e/p/c) New:0/0/0/1/0/24, Cur:0/0/0/836/66/48125
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:02-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41290 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41299
+Sz:2077 Tm:580us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/836/66/48126
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ae2968.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:02-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41299 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41300
+Crash: saved as 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac9c84.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:21:02-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41300 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41301
+[2026-10-20T23:21:02-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41301 exited with status: EXITED, exit code: 1
+Sz:1872 Tm:781us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/836/66/48127
+Persistent mode: Launched new persistent pid=41302
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:02-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41302 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41303
+Sz:1520 Tm:311us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/836/66/48128
+Sz:1558 Tm:405us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/836/66/48157
+Sz:992 Tm:460us (i/b/h/e/p/c) New:0/0/0/1/0/1, Cur:0/0/0/837/66/48158
+Sz:1630 Tm:311us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/837/66/48159
+Sz:2298 Tm:3,018us (i/b/h/e/p/c) New:0/0/0/1/0/30, Cur:0/0/0/838/66/48189
+Sz:1153 Tm:446us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/838/66/48190
+[2026-10-20T23:21:03-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41303 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41312
+[2026-10-20T23:21:03-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41312 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41313
+Sz:2048 Tm:579us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/838/66/48191
+[2026-10-20T23:21:03-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41313 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41314
+Sz:2091 Tm:340us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/838/66/48192
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:03-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41314 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41315
+Sz:1899 Tm:261us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/838/66/48193
+[2026-10-20T23:21:03-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41315 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41316
+Sz:1526 Tm:229us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/838/66/48194
+[2026-10-20T23:21:03-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41316 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41317
+[2026-10-20T23:21:03-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41317 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41318
+[2026-10-20T23:21:03-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41318 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41319
+Sz:8192 Tm:220,801us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/838/66/48196
+Sz:2048 Tm:688us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/838/66/48198
+Sz:1519 Tm:620us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/838/66/48199
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:03-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41319 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41320
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:04-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41320 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41329
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:04-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41329 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41330
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:04-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41330 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41331
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:04-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41331 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41332
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:04-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41332 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41333
+Sz:2175 Tm:920us (i/b/h/e/p/c) New:0/0/0/0/0/28, Cur:0/0/0/838/66/48227
+Sz:2178 Tm:276us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/838/66/48256
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4bdb0dd.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:04-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41333 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41334
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:04-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41334 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41335
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:04-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41335 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41336
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:04-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41336 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41337
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:04-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41337 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41338
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:04-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41338 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41339
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:04-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41339 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41340
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41340 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41346
+Sz:1830 Tm:740us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/838/66/48259
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41346 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41350
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41350 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41351
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41351 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41352
+Crash: saved as 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.1abb326c83.CODE.2.ADDR.7fffe4ac9898.INSTR.movzbl_(%r14),%eax.fuzz'
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41352 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41353
+Sz:1718 Tm:304us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/838/66/48260
+Sz:4096 Tm:1,098us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/838/66/48262
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41353 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41354
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41354 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41355
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41355 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41356
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41356 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41357
+Sz:1024 Tm:12,732us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/838/66/48264
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41357 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41358
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41358 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41359
+Sz:1886 Tm:864us (i/b/h/e/p/c) New:0/0/0/2/0/96, Cur:0/0/0/840/66/48360
+Sz:1510 Tm:3,025us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/840/66/48361
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41359 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41360
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41360 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41361
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41361 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41362
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41362 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41363
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41363 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41364
+Crash (dup): 'evidence/harness_run/crashes/SIGBUS.PC.5555556b1994.STACK.d4a048cdf.CODE.2.ADDR.7fffe4ac8000.INSTR.movzbl_(%r14),%eax.fuzz' already exists, skipping
+[2026-10-20T23:21:05-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41364 exited with status: SIGNALED, signal: 7 (Bus error)
+Persistent mode: Launched new persistent pid=41365
+Sz:2312 Tm:4,539us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/840/66/48362
+Sz:1021 Tm:934us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/840/66/48363
+Sz:994 Tm:474us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/840/66/48364
+Sz:992 Tm:411us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/840/66/48365
+[2026-10-20T23:21:06-0400][W][40769] arch_checkWait():237 Persistent mode: pid=41365 exited with status: EXITED, exit code: 1
+Persistent mode: Launched new persistent pid=41374
+Maximum run time reached, terminating
+Terminating thread no. #0, left: 0
+Summary iterations:48231 time:31 speed:1555 crashes_count:261 timeout_count:0 new_units_added:434 slowest_unit_ms:220 guard_nb:21046 branch_coverage_percent:3 peak_rss_mb:17
+[r[500B

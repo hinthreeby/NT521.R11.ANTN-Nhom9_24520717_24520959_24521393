@@ -1,0 +1,65 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /Dests 5 0 R /Names 6 0 R /URI 7 0 R /Metadata 8 0 R /StructTreeRoot 9 0 R /Outlines 10 0 R /AcroForm 11 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] >>
+endobj
+4 0 obj
+<< /Title (AI catalog seed) /Author (lab) >>
+endobj
+5 0 obj
+<< /Dests << /home [3 0 R /Fit] >> >>
+endobj
+6 0 obj
+<< /Dests << /Names [(home) [3 0 R /Fit]] >> >>
+endobj
+7 0 obj
+<< /Base (https://example.invalid/) >>
+endobj
+8 0 obj
+<<
+/Subtype /XML
+/Type /Metadata
+/Length 12
+>>
+stream
+<x:xmpmeta/>
+endstream
+endobj
+9 0 obj
+<< /Type /StructTreeRoot /K [] >>
+endobj
+10 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+11 0 obj
+<< /Fields [] >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000173 00000 n 
+0000000230 00000 n 
+0000000301 00000 n 
+0000000361 00000 n 
+0000000414 00000 n 
+0000000477 00000 n 
+0000000531 00000 n 
+0000000623 00000 n 
+0000000672 00000 n 
+0000000719 00000 n 
+trailer
+<<
+/Size 12
+/Root 1 0 R
+/Info 4 0 R
+>>
+startxref
+752
+%%EOF
