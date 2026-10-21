@@ -1,0 +1,16 @@
+Corpus: out_5m  (2076 files, 0 crashes/timeouts)
+File            Covered    Lines        %
+Array.cc             31       37   83.78%
+Catalog.cc          168      296   56.76%
+Decrypt.cc            0      554    0.00%
+Dict.cc              46       55   83.64%
+Lexer.cc            361      388   93.04%
+Object.cc            81      152   53.29%
+PDFDoc.cc           135      229   58.95%
+Page.cc             149      335   44.48%
+Parser.cc           140      157   89.17%
+Stream.cc           123     3286    3.74%
+XRef.cc             401      698   57.45%
+------------------------------------------
+TOTAL              1635     6187   26.43%
+Whole program: 8.57% (2770/32337 lines)

@@ -1,0 +1,3 @@
+fuzzer,no_errors_or_warnings,warnings,errors,total
+honggfuzz,17,516,1543,2076
+AFLplusplus_baseline,4,234,280,518
