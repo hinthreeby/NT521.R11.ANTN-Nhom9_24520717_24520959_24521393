@@ -9,3 +9,6 @@ __pycache__/
 *.o
 *.a
 *.so
+
+# Allow Lab 3 submission logs
+!LAB3/BT2/*.log
